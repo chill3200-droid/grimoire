@@ -1,0 +1,5464 @@
+{
+ "title": "Grimoire",
+ "artwork_dir": "art",
+ "groups": {
+  "T11 Divine": [
+   {
+    "name": "Seraphim Dawn",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Daybreak Lance",
+      "description": "Launch a piercing lance of light."
+     },
+     {
+      "n": 2,
+      "name": "Wingstep",
+      "description": "Dash by briefly teleporting."
+     },
+     {
+      "n": 3,
+      "name": "Halo Brand",
+      "description": "Mark the target and stun it."
+     },
+     {
+      "n": 4,
+      "name": "Sanctuary Feather",
+      "description": "Create a zone that heals within its area."
+     },
+     {
+      "n": 5,
+      "name": "Solar Choir",
+      "description": "Release outward-expanding pulses of light."
+     },
+     {
+      "n": 6,
+      "name": "Judgement Ray",
+      "description": "Create a column of light that tracks its target."
+     },
+     {
+      "n": 7,
+      "name": "Second Sunrise",
+      "description": "Release a wide-area effect with a revival effect."
+     },
+     {
+      "n": 8,
+      "name": "Grace Ward",
+      "description": "Convert damage in an ally-support effect; the source does not define the conversion direction or result."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Seraphim_Dawn.jpg"
+   },
+   {
+    "name": "Aeon Chronarch",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Tick Bolt",
+      "description": "Fire a projectile that can hit repeatedly."
+     },
+     {
+      "n": 2,
+      "name": "Rewind Step",
+      "description": "Return to a previous position."
+     },
+     {
+      "n": 3,
+      "name": "Stopped Moment",
+      "description": "Freeze the target while storing damage."
+     },
+     {
+      "n": 4,
+      "name": "Hourglass Field",
+      "description": "Create a field that affects ally and enemy cooldowns; the source does not specify how each changes."
+     },
+     {
+      "n": 5,
+      "name": "Clockwork Barrage",
+      "description": "Rain clockwork gears onto the area."
+     },
+     {
+      "n": 6,
+      "name": "Last Second",
+      "description": "Release a burst when its countdown ends."
+     },
+     {
+      "n": 7,
+      "name": "Time Collapse",
+      "description": "Replay damage across an area."
+     },
+     {
+      "n": 8,
+      "name": "Borrowed Time",
+      "description": "Prevent an ally's death by leaving the ally at minimal health."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Aeon_Chronarch.jpg"
+   },
+   {
+    "name": "Genesis Bloom",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Seed Shot",
+      "description": "Fire a thorn projectile."
+     },
+     {
+      "n": 2,
+      "name": "Root Glide",
+      "description": "Dash beneath the ground."
+     },
+     {
+      "n": 3,
+      "name": "First Bloom",
+      "description": "Combine a trapping effect with healing."
+     },
+     {
+      "n": 4,
+      "name": "Garden of Eden",
+      "description": "Create a zone that combines concealment and healing."
+     },
+     {
+      "n": 5,
+      "name": "Thorn Crown",
+      "description": "Raise thorns across an area."
+     },
+     {
+      "n": 6,
+      "name": "Withering Root",
+      "description": "Drain the target and provide healing."
+     },
+     {
+      "n": 7,
+      "name": "World Tree",
+      "description": "Create a large area effect that also provides healing."
+     },
+     {
+      "n": 8,
+      "name": "Rebirth Petal",
+      "description": "Revive an ally with part of their health restored."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Genesis_Bloom.jpg"
+   },
+   {
+    "name": "Divine Verdict",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Gavel Strike",
+      "description": "Apply a guilty mark to the target."
+     },
+     {
+      "n": 2,
+      "name": "Swift Justice",
+      "description": "Dash into an attack described by the source as a guaranteed hit."
+     },
+     {
+      "n": 3,
+      "name": "Scales of Balance",
+      "description": "Equalize health between the affected participants."
+     },
+     {
+      "n": 4,
+      "name": "Law Circle",
+      "description": "Create a circle that disables movement and stealth effects."
+     },
+     {
+      "n": 5,
+      "name": "Sentence Blades",
+      "description": "Release blades in a fan-shaped pattern."
+     },
+     {
+      "n": 6,
+      "name": "Final Judgement",
+      "description": "Trigger a judgment trial followed by an execution effect; qualifying conditions are not specified."
+     },
+     {
+      "n": 7,
+      "name": "Heaven’s Court",
+      "description": "Create a courtroom-themed area effect; the source does not specify its individual damage or control rules."
+     },
+     {
+      "n": 8,
+      "name": "Pardon",
+      "description": "Remove harmful status effects from an ally."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Divine_Verdict.jpg"
+   },
+   {
+    "name": "Starforge Covenant",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Star Spark",
+      "description": "Fire a projectile that explodes."
+     },
+     {
+      "n": 2,
+      "name": "Meteor Leap",
+      "description": "Crash down in a meteor-like impact."
+     },
+     {
+      "n": 3,
+      "name": "Forge Brand",
+      "description": "Place a mark that produces an explosion."
+     },
+     {
+      "n": 4,
+      "name": "Anvil Drop",
+      "description": "Drop an anvil that blocks the affected space."
+     },
+     {
+      "n": 5,
+      "name": "Supernova Swing",
+      "description": "Release an explosion along a wide swinging arc."
+     },
+     {
+      "n": 6,
+      "name": "Collapsing Star",
+      "description": "Pull targets inward, then detonate the gathered energy."
+     },
+     {
+      "n": 7,
+      "name": "Starfall Forge",
+      "description": "Rain meteors across an area."
+     },
+     {
+      "n": 8,
+      "name": "Tempered Armor",
+      "description": "Reduce incoming damage for an ally."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Starforge_Covenant.jpg"
+   },
+   {
+    "name": "Halcyon Tide",
+    "tier": "T11 Divine",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Pearl Shot",
+      "description": "Fire a projectile that bounces."
+     },
+     {
+      "n": 2,
+      "name": "Riptide Glide",
+      "description": "Dash forward on a wave."
+     },
+     {
+      "n": 3,
+      "name": "Still Water",
+      "description": "Use water to reveal and reflect; the source does not specify the exact targets or reflection limits."
+     },
+     {
+      "n": 4,
+      "name": "Sacred Spring",
+      "description": "Heal and remove harmful effects."
+     },
+     {
+      "n": 5,
+      "name": "Crashing Wave",
+      "description": "Drag the target with water, then slam it."
+     },
+     {
+      "n": 6,
+      "name": "Abyssal Pull",
+      "description": "Create a whirlpool that traps targets."
+     },
+     {
+      "n": 7,
+      "name": "Endless Tide",
+      "description": "Create a large area effect that also provides healing."
+     },
+     {
+      "n": 8,
+      "name": "Calm Waters",
+      "description": "Protect an ally against a limited number of hits."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T11__Halcyon_Tide.jpg"
+   }
+  ],
+  "T10 Null": [
+   {
+    "name": "Void Eclipse",
+    "tier": "T10 Null",
+    "themes": "Null Space · Absorption · Erasure",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Void_Eclipse.jpg"
+   },
+   {
+    "name": "Shadow Veil",
+    "tier": "T10 Null",
+    "themes": "Concealment · Illusion · Mind Distortion",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Shadow_Veil.jpg"
+   },
+   {
+    "name": "Oblivion Flame",
+    "tier": "T10 Null",
+    "themes": "Destruction · Soul Burn · Nullfire",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Oblivion_Flame.jpg"
+   },
+   {
+    "name": "Rift Storm",
+    "tier": "T10 Null",
+    "themes": "Dimensional Tears · Instability · Chaos",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Rift_Storm.jpg"
+   },
+   {
+    "name": "Soul Chronos",
+    "tier": "T10 Null",
+    "themes": "Fate · Life/Death Cycle · Time Fracture",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Soul_Chronos.jpg"
+   },
+   {
+    "name": "Nihil Order",
+    "tier": "T10 Null",
+    "themes": "Control · Subjugation · Absolute Will",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Nihil_Order.jpg"
+   },
+   {
+    "name": "Fractal Mind",
+    "tier": "T10 Null",
+    "themes": "Thought · Reality Rewrite · Madness",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Fractal_Mind.jpg"
+   },
+   {
+    "name": "Gravitic Core",
+    "tier": "T10 Null",
+    "themes": "Gravity · Compression · Singularity",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Gravitic_Core.jpg"
+   },
+   {
+    "name": "Entropy Reign",
+    "tier": "T10 Null",
+    "themes": "Decay · Corruption · Inevitable End",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Entropy_Reign.jpg"
+   },
+   {
+    "name": "Nexus Prism",
+    "tier": "T10 Null",
+    "themes": "Elemental Fusion · Adaptation · Infinite Potential",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Nexus_Prism.jpg"
+   },
+   {
+    "name": "Echo Phantom",
+    "tier": "T10 Null",
+    "themes": "Afterimage · Memory Control · Existential Echo",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Echo_Phantom.jpg"
+   },
+   {
+    "name": "Reality Shard",
+    "tier": "T10 Null",
+    "themes": "Fragmentation · Alternate Realities · Shatter",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Reality_Shard.jpg"
+   },
+   {
+    "name": "Celestial Null",
+    "tier": "T10 Null",
+    "themes": "Opposition · Light Negation · Divine Collapse",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Celestial_Null.jpg"
+   },
+   {
+    "name": "Dream Weaver",
+    "tier": "T10 Null",
+    "themes": "Dreamscape · Illusion Realm · Mental Dominion",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Dream_Weaver.jpg"
+   },
+   {
+    "name": "Absolution",
+    "tier": "T10 Null",
+    "themes": "Balance · Reset · Conceptual Erasure",
+    "abilities": [],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T10__Absolution.jpg"
+   }
+  ],
+  "T9 Omnipotence": [
+   {
+    "name": "Entropy",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Decay Touch",
+      "description": "Break down matter with decay."
+     },
+     {
+      "n": 2,
+      "name": "Void Eclipse",
+      "description": "Create a decay zone."
+     },
+     {
+      "n": 3,
+      "name": "Entropic Chain",
+      "description": "Bind the target while causing deterioration."
+     },
+     {
+      "n": 4,
+      "name": "Unmaking Wave",
+      "description": "Send an unmaking wave that erases energy and physical form."
+     },
+     {
+      "n": 5,
+      "name": "Corrupt Field",
+      "description": "Spread decay through a field."
+     },
+     {
+      "n": 6,
+      "name": "Chaos Eruption",
+      "description": "Release unstable bursts of explosive energy."
+     },
+     {
+      "n": 7,
+      "name": "Structure Fall",
+      "description": "Collapse terrain and conceptual structures as described by the source; implementation limits remain undefined."
+     },
+     {
+      "n": 8,
+      "name": "Total Unmaking",
+      "description": "Unmake the affected target; the source describes the outcome as reducing it to nothing, without defining eligibility or limits."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T9__Entropy.jpg"
+   },
+   {
+    "name": "Time",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Time Halt",
+      "description": "Halt time in the affected situation; the source's broad wording does not define range or eligible targets."
+     },
+     {
+      "n": 2,
+      "name": "Timeline Slash",
+      "description": "Strike with a slash described as cutting through time. Conflict: canonical written move list says Time Slash. Retain both spellings pending reconciliation; do not count as separate moves."
+     },
+     {
+      "n": 3,
+      "name": "Future Sight",
+      "description": "Reveal possible future outcomes."
+     },
+     {
+      "n": 4,
+      "name": "Past Rewrite",
+      "description": "Rewrite a past event; the source does not define which events can be changed."
+     },
+     {
+      "n": 5,
+      "name": "Aging Field",
+      "description": "Create a field that accelerates or reverses aging."
+     },
+     {
+      "n": 6,
+      "name": "Time Loop",
+      "description": "Make a moment repeat in a time loop."
+     },
+     {
+      "n": 7,
+      "name": "Time Fragment",
+      "description": "Create echoes of a moment in time."
+     },
+     {
+      "n": 8,
+      "name": "Eternal State",
+      "description": "Enter a state described as existing outside normal time; exact combat interactions are not defined."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T9__Time.jpg"
+   },
+   {
+    "name": "Arsenal",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Weapon Forge",
+      "description": "Manifest a weapon from the arsenal; the source does not enumerate the available forms."
+     },
+     {
+      "n": 2,
+      "name": "Form Shift",
+      "description": "Change the manifested weapon's type."
+     },
+     {
+      "n": 3,
+      "name": "Quantum Arsenal",
+      "description": "Summon multiple weapons together."
+     },
+     {
+      "n": 4,
+      "name": "Binding Armory",
+      "description": "Restrain enemies using weapon constructs."
+     },
+     {
+      "n": 5,
+      "name": "Orbital Blades",
+      "description": "Make weapons orbit and strike targets."
+     },
+     {
+      "n": 6,
+      "name": "Construct Beast",
+      "description": "Form a giant construct made from weapons."
+     },
+     {
+      "n": 7,
+      "name": "Dominion Slash",
+      "description": "Attack with a high-speed flurry of weapon strikes."
+     },
+     {
+      "n": 8,
+      "name": "Final Armory",
+      "description": "Release the arsenal's weapon forms together."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "manifested weapon arsenal",
+    "artwork": "T9__Arsenal.jpg"
+   },
+   {
+    "name": "Conceptual",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Ideal Summon",
+      "description": "Call a short-lived construct."
+     },
+     {
+      "n": 2,
+      "name": "Concept Guard",
+      "description": "Create constructs that defend the user."
+     },
+     {
+      "n": 3,
+      "name": "Form Array",
+      "description": "Summon several temporary constructs."
+     },
+     {
+      "n": 4,
+      "name": "Abstract Beast",
+      "description": "Manifest a large construct for a limited time."
+     },
+     {
+      "n": 5,
+      "name": "Dismantle",
+      "description": "Dismantle enemy constructs."
+     },
+     {
+      "n": 6,
+      "name": "Essence Copy",
+      "description": "Briefly recreate a form."
+     },
+     {
+      "n": 7,
+      "name": "Concept Field",
+      "description": "Create a field that repeatedly produces small summons."
+     },
+     {
+      "n": 8,
+      "name": "Grand Manifest",
+      "description": "Release a final surge of constructs."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T9__Conceptual.jpg"
+   },
+   {
+    "name": "Verdance",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Life Seed",
+      "description": "Cause plants to grow immediately."
+     },
+     {
+      "n": 2,
+      "name": "Vital Bloom",
+      "description": "Provide healing and regeneration."
+     },
+     {
+      "n": 3,
+      "name": "Evolution Form",
+      "description": "Temporarily mutate forms without establishing a permanent transformation."
+     },
+     {
+      "n": 4,
+      "name": "Nature Whip",
+      "description": "Control vines and roots to carry out the attack."
+     },
+     {
+      "n": 5,
+      "name": "Flora Guardian",
+      "description": "Summon constructs made from plants."
+     },
+     {
+      "n": 6,
+      "name": "Terrain Shift",
+      "description": "Reshape the surrounding environment with growth."
+     },
+     {
+      "n": 7,
+      "name": "Wild Surge",
+      "description": "Release a burst of rapidly growing plant life."
+     },
+     {
+      "n": 8,
+      "name": "World Tree",
+      "description": "Summon a massive plant construct for a limited time."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T9__Verdance.jpg"
+   },
+   {
+    "name": "Aether",
+    "tier": "T9 Omnipotence",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Aether Burst",
+      "description": "Release a burst of pure Aether essence."
+     },
+     {
+      "n": 2,
+      "name": "Essence Drain",
+      "description": "Absorb life force from the affected target."
+     },
+     {
+      "n": 3,
+      "name": "Aether Construct",
+      "description": "Shape Aether energy into constructs."
+     },
+     {
+      "n": 4,
+      "name": "Transcend",
+      "description": "Enter an enhanced state; the source does not identify which statistics change."
+     },
+     {
+      "n": 5,
+      "name": "Vital Regen",
+      "description": "Recover rapidly through Aether energy."
+     },
+     {
+      "n": 6,
+      "name": "Spirit Link",
+      "description": "Create a spiritual link that allows sharing; the shared resource or effect is not specified."
+     },
+     {
+      "n": 7,
+      "name": "Aether Storm",
+      "description": "Release an energy storm across a large area."
+     },
+     {
+      "n": 8,
+      "name": "Ascension",
+      "description": "Enter a temporary heightened state described as divinity; exact benefits remain unspecified."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T9__Aether.jpg"
+   }
+  ],
+  "T8 Universal": [
+   {
+    "name": "Celestial Inferno Sovereign",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Star Birth",
+      "description": "Create a miniature star."
+     },
+     {
+      "n": 2,
+      "name": "Orbital Path",
+      "description": "Control the trajectories of the element's effects."
+     },
+     {
+      "n": 3,
+      "name": "Radiant Spear",
+      "description": "Manifest weapons made of light."
+     },
+     {
+      "n": 4,
+      "name": "Solar Flare",
+      "description": "Release a large blast across an area."
+     },
+     {
+      "n": 5,
+      "name": "Celestial Field",
+      "description": "Create an area influenced by gravity and light."
+     },
+     {
+      "n": 6,
+      "name": "Meteor Fall",
+      "description": "Bring down fragments of stellar energy."
+     },
+     {
+      "n": 7,
+      "name": "Nova Form",
+      "description": "Enter a temporary stellar-energy state."
+     },
+     {
+      "n": 8,
+      "name": "Cosmic Order",
+      "description": "Alter local physical rules; the source does not define the allowable changes."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T8__Celestial_Inferno_Sovereign.jpg"
+   },
+   {
+    "name": "Leviathan",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Abyss Spawn",
+      "description": "Summon sea constructs (water beasts, tendrils, fists)."
+     },
+     {
+      "n": 2,
+      "name": "Tidal Crush",
+      "description": "High-pressure wave that compresses and explodes."
+     },
+     {
+      "n": 3,
+      "name": "Ocean Grasp",
+      "description": "Water tendrils bind and drag enemies to a central point."
+     },
+     {
+      "n": 4,
+      "name": "Maelstrom",
+      "description": "Create a massive vortex that pulls everything in."
+     },
+     {
+      "n": 5,
+      "name": "Leviathan Form",
+      "description": "Temporary sea beast form (partial transformation)."
+     },
+     {
+      "n": 6,
+      "name": "Depth Charge",
+      "description": "Explosive column from beneath the ground or sea."
+     },
+     {
+      "n": 7,
+      "name": "Abyssal Domain",
+      "description": "Underwater battlefield with limited movement & pressure."
+     },
+     {
+      "n": 8,
+      "name": "World Drown",
+      "description": "Ultimate: full manifestation of the Leviathan for a short time."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T8__Leviathan.jpg"
+   },
+   {
+    "name": "Arcgun",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Arc Shot",
+      "description": "Basic shot infused with arcane energy. High damage, fast fire rate."
+     },
+     {
+      "n": 2,
+      "name": "Volt Ricochet",
+      "description": "Bullets chain between targets. Bounces off surfaces."
+     },
+     {
+      "n": 3,
+      "name": "Gravity Round",
+      "description": "Creates a gravity field on impact. Slows and pulls enemies."
+     },
+     {
+      "n": 4,
+      "name": "Phase Bullet",
+      "description": "Pierces through objects and enemies, hitting multiple targets."
+     },
+     {
+      "n": 5,
+      "name": "Sniper Mark",
+      "description": "High-damage precision shot. Designed as a long-range execution shot."
+     },
+     {
+      "n": 6,
+      "name": "Spectral Mag",
+      "description": "Summon magic constructs (e.g. turrets, shields, clones)."
+     },
+     {
+      "n": 7,
+      "name": "Overclock",
+      "description": "Temporarily enhance fire rate, damage and reload speed."
+     },
+     {
+      "n": 8,
+      "name": "Final Caliber",
+      "description": "Ultimate: a massive arcane shot that tears through the area."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "Arc Pistol, Radiant Pistol, Axiom Breaker sniper",
+    "artwork": "T8__Arcgun.jpg"
+   },
+   {
+    "name": "Event Horizon",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Gravity Well",
+      "description": "Create a gravity well that pulls enemies inward."
+     },
+     {
+      "n": 2,
+      "name": "Singular Strike",
+      "description": "Deliver a concentrated high-density impact."
+     },
+     {
+      "n": 3,
+      "name": "Space Tear",
+      "description": "Tear open a spatial portal."
+     },
+     {
+      "n": 4,
+      "name": "Orbital Crush",
+      "description": "Drop orbiting debris onto the area."
+     },
+     {
+      "n": 5,
+      "name": "Dimension Fold",
+      "description": "Teleport, then deliver a slamming impact."
+     },
+     {
+      "n": 6,
+      "name": "Mass Absorption",
+      "description": "Absorb momentum from the affected motion."
+     },
+     {
+      "n": 7,
+      "name": "Horizon Domain",
+      "description": "Create a zone of reduced gravity."
+     },
+     {
+      "n": 8,
+      "name": "Event Collapse",
+      "description": "Create a large singularity effect."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T8__Event_Horizon.jpg"
+   },
+   {
+    "name": "Polarity",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Polar Charge",
+      "description": "Apply a positive or negative charge."
+     },
+     {
+      "n": 2,
+      "name": "Magnet Pull",
+      "description": "Magnetically attract enemies or objects."
+     },
+     {
+      "n": 3,
+      "name": "Repulse Wave",
+      "description": "Release a repulsive wave that knocks targets back and shatters affected objects."
+     },
+     {
+      "n": 4,
+      "name": "Metal Manip.",
+      "description": "Control constructs made from metal. Canonical full written name: Metal Manipulation. Same slot, not a ninth move."
+     },
+     {
+      "n": 5,
+      "name": "Field Dome",
+      "description": "Create a dome-shaped magnetic barrier."
+     },
+     {
+      "n": 6,
+      "name": "Rail Launch",
+      "description": "Launch projectiles with magnetic force."
+     },
+     {
+      "n": 7,
+      "name": "Polar Shift",
+      "description": "Reverse the directions of the affected magnetic motion."
+     },
+     {
+      "n": 8,
+      "name": "Magnetic Storm",
+      "description": "Control a large area through a magnetic storm."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T8__Polarity.jpg"
+   },
+   {
+    "name": "Flux",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Golden Infusion",
+      "description": "Channel the blade's golden energy flow."
+     },
+     {
+      "n": 2,
+      "name": "Arc Slash",
+      "description": "Sweep the blade in a wide crescent slash."
+     },
+     {
+      "n": 3,
+      "name": "Influx Dash",
+      "description": "Lunge forward at high speed."
+     },
+     {
+      "n": 4,
+      "name": "Flow State",
+      "description": "Build successive layers of momentum."
+     },
+     {
+      "n": 5,
+      "name": "Golden Parry",
+      "description": "Deflect an attack and convert its force; the source does not specify the conversion result."
+     },
+     {
+      "n": 6,
+      "name": "Flux Crescent",
+      "description": "Release a blade-shaped wave that travels at range."
+     },
+     {
+      "n": 7,
+      "name": "Momentum Reap",
+      "description": "Deliver successive strikes that grow stronger with each hit."
+     },
+     {
+      "n": 8,
+      "name": "Sovereign Flow",
+      "description": "Release a large sequence of blade slashes."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "Flux Blade",
+    "artwork": "T8__Flux.jpg"
+   },
+   {
+    "name": "Annihilation",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Null Step",
+      "description": "Instant displacement. Leaves a void afterimage."
+     },
+     {
+      "n": 2,
+      "name": "Concept Erase",
+      "description": "Erases targets and abilities from reality (shuts down). Temporarily disables skills."
+     },
+     {
+      "n": 3,
+      "name": "Reality Rift",
+      "description": "Creates destructive rifts that pull and distort."
+     },
+     {
+      "n": 4,
+      "name": "World Collapse",
+      "description": "Destroys an area, warping space and time."
+     },
+     {
+      "n": 5,
+      "name": "The End (Ultimate)",
+      "description": "Complete annihilation. Deals massive damage and resets the area temporarily."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation",
+     "Has Aura"
+    ],
+    "weapon": "Null Blade, Erasure Spear, Void Scythe manifestations",
+    "artwork": "T8__Annihilation.jpg"
+   },
+   {
+    "name": "Trinity Space",
+    "tier": "T8 Universal",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Trinity Gate",
+      "description": "Open a spatial portal."
+     },
+     {
+      "n": 2,
+      "name": "Space Rift",
+      "description": "Project a spatial attack at range."
+     },
+     {
+      "n": 3,
+      "name": "Dimension Slice",
+      "description": "Release a spatial slash across an area."
+     },
+     {
+      "n": 4,
+      "name": "Gravity Fold",
+      "description": "Fold space to pull and crush targets."
+     },
+     {
+      "n": 5,
+      "name": "Reality Overlap",
+      "description": "Create a clone-like spatial afterimage; the source does not define whether it attacks independently."
+     },
+     {
+      "n": 6,
+      "name": "Tri-Spatial Field",
+      "description": "Establish a zone of layered spatial effects; its exact control rules are not specified."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T8__Trinity_Space.jpg"
+   }
+  ],
+  "T7 God grade": [
+   {
+    "name": "Nine-Tailed Inferno",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Kitsune Flare",
+      "description": "Ignition Strike. Lunging slash engulfed in infernal flames; leaves a burning trail that explodes after a short delay."
+     },
+     {
+      "n": 2,
+      "name": "Tail Shift",
+      "description": "Form Change. Rapid tail-assisted repositioning, creating afterimages that confuse enemies; briefly increases movement speed."
+     },
+     {
+      "n": 3,
+      "name": "Scorching Maw",
+      "description": "Flame Breath. Wide cone of hellfire from the maw, dealing heavy damage and igniting the ground."
+     },
+     {
+      "n": 4,
+      "name": "Mirage Step",
+      "description": "Illusion Dash. Disappear in flame, reappear behind the target and deliver a powerful tail strike."
+     },
+     {
+      "n": 5,
+      "name": "Ninefold Dance",
+      "description": "Multi-Slash. Rapid nine-hit combination using all tails; each hit leaves a flame mark that explodes at the end."
+     },
+     {
+      "n": 6,
+      "name": "Spirit Fox",
+      "description": "Clone Assault. Summons multiple flame clones that mimic attacks, exploding on contact or after a short duration."
+     },
+     {
+      "n": 7,
+      "name": "Infernal Domain",
+      "description": "Field Control. Creates a vast domain of burning torii; enemies take continuous damage, have reduced mobility and experience illusions."
+     },
+     {
+      "n": 8,
+      "name": "Kyuubi Ascension",
+      "description": "Ultimate. Releases the nine souls' full power in a massive explosion followed by relentless tail strikes across a giant area."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T7__Nine_Tailed_Inferno.jpg"
+   },
+   {
+    "name": "Oathbound",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Vow of Steel",
+      "description": "Disable dash for stronger melee power."
+     },
+     {
+      "n": 2,
+      "name": "Sacred Witness",
+      "description": "Floating seal monitors active vows."
+     },
+     {
+      "n": 3,
+      "name": "Penance Strike",
+      "description": "Close-range strike, scales with Conviction."
+     },
+     {
+      "n": 4,
+      "name": "Vow of Silence",
+      "description": "Disable ranged for faster melee recovery."
+     },
+     {
+      "n": 5,
+      "name": "Covenant Circle",
+      "description": "Stay inside for buffs. Leaving breaks the vow."
+     },
+     {
+      "n": 6,
+      "name": "Oathbreaker",
+      "description": "Sacrifice all vows for a powerful attack."
+     },
+     {
+      "n": 7,
+      "name": "Unbroken Promise",
+      "description": "Prevent Conviction loss and reduce stagger."
+     },
+     {
+      "n": 8,
+      "name": "Final Covenant",
+      "description": "Convert fulfilled vows into sequence of judgment strikes."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T7__Oathbound.jpg"
+   },
+   {
+    "name": "Eternal Winter Throne",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Frost Ascension",
+      "description": "Throne Rise. Burst of ice erupts from the ground, launching enemies and creating a temporary frozen throne field."
+     },
+     {
+      "n": 2,
+      "name": "Glacial Piercer",
+      "description": "Ice Lance. High-speed ice lance pierces enemies and leaves a freezing trail."
+     },
+     {
+      "n": 3,
+      "name": "Winter Veil",
+      "description": "Area Freeze. Large freezing zone slows enemies, builds ice on the ground, and reduces movement and attack speed."
+     },
+     {
+      "n": 4,
+      "name": "Zero Step",
+      "description": "Teleport Slash. Blink to a target location, slash with freezing afterimages, and leave an ice clone that explodes after a short delay."
+     },
+     {
+      "n": 5,
+      "name": "Chime of Ice",
+      "description": "Frostchain Slash. Rotating ice chains lock onto enemies, continuously damaging, pulling and freezing them."
+     },
+     {
+      "n": 6,
+      "name": "Crown of Ice",
+      "description": "Summon Constructs. Multiple ice constructs guard an area and attack enemies with frost blasts."
+     },
+     {
+      "n": 7,
+      "name": "Blizzard Judgment",
+      "description": "Massive Storm. Devastating blizzard surrounds the area with raging ice shards, heavy damage and extreme slow."
+     },
+     {
+      "n": 8,
+      "name": "Eternal Throne",
+      "description": "Ultimate. Summon the Eternal Winter Throne; battlefield is covered in absolute cold, with enemies frozen, slowed and continuously damaged in the realm."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "ornate ice staff",
+    "artwork": "T7__Eternal_Winter_Throne.jpg"
+   },
+   {
+    "name": "Bellblade",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "First Toll",
+      "description": "Awakening Strike. Powerful opening slash awakens Bell I and increases the range of your next attack."
+     },
+     {
+      "n": 2,
+      "name": "Bronze Reversal",
+      "description": "Counter. Counter an incoming attack. On success, release a bell-resonance that staggers enemies and awakens Bell II."
+     },
+     {
+      "n": 3,
+      "name": "Bellfall Cleave",
+      "description": "Heavy Attack. Overhead cleave with a downward shock arc; high guard damage; awakens Bell III."
+     },
+     {
+      "n": 4,
+      "name": "Chimebreaker Rush",
+      "description": "Mobility. Dash forward with a multi-hit slash, leaving a trail of ringing bells; awakens Bell IV on final hit."
+     },
+     {
+      "n": 5,
+      "name": "Cathedral Chord",
+      "description": "Enhancement. Consume up to three awakened bells to empower the next attack; different combinations alter properties (range, damage, speed, etc.)."
+     },
+     {
+      "n": 6,
+      "name": "Seventh Echo",
+      "description": "Ranged Attack. Release seven crescent resonance waves in a staggered sequence; multiple hits deal reduced damage."
+     },
+     {
+      "n": 7,
+      "name": "Grand Resonance",
+      "description": "Empowered State. All seven bells ring in harmony. For a short time, attacks build resonance faster and gain enhanced effects."
+     },
+     {
+      "n": 8,
+      "name": "Final Toll",
+      "description": "Ultimate. Summon seven colossal bell specters that ring in sequence before a massive finishing cleave; damage and effects scale with awakened bells."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "greatsword with seven bells",
+    "artwork": "T7__Bellblade.jpg"
+   },
+   {
+    "name": "Abyssal Curse King",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Void Mark",
+      "description": "Curse Infliction. Cursed projectile marks a target. Marked enemies take increased damage and are easier to bind; the mark spreads on defeat."
+     },
+     {
+      "n": 2,
+      "name": "Shadow Chain",
+      "description": "Binding Strike. High-speed chain binds, pulls toward you and immobilizes an enemy. Additional hits may extend or redirect the chain."
+     },
+     {
+      "n": 3,
+      "name": "Abyss Dive",
+      "description": "Gap Control. Turn into void energy and dash through targets; explode at the end, launching enemies upward and applying a curse mark."
+     },
+     {
+      "n": 4,
+      "name": "Soul Siphon",
+      "description": "Life Drain. Draining orb steals health over time; heals the user based on damage dealt and applies a weakened state while active."
+     },
+     {
+      "n": 5,
+      "name": "Fallen Legions",
+      "description": "Summon Shades. Multiple abyssal shades seek enemies and fire projectiles; explode on contact and apply curse marks."
+     },
+     {
+      "n": 6,
+      "name": "Reality Fracture",
+      "description": "Distortion Field. Reality-distorting field slows enemies, reduces their damage and disables movement skills; projectiles inside curve toward the user."
+     },
+     {
+      "n": 7,
+      "name": "King of Nothing",
+      "description": "Domain Expansion. Summon the Abyssal Throne and engulf the area in darkness. Enemies take continuous damage, have reduced vision and are pulled toward the center; all curse effects are amplified inside."
+     },
+     {
+      "n": 8,
+      "name": "Abyssal Reign",
+      "description": "Ultimate. Full Abyssal Curse King power: multiple void projectiles rain down, chains erupt from the ground, and a devastating void beam finishes the attack."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T7__Abyssal_Curse_King.jpg"
+   },
+   {
+    "name": "Thousand Blossom Requiem",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Blooming Slash",
+      "description": "Petal Strike. Precise slash releases razor-sharp petals; leaves a trail of lingering blossoms that explode shortly afterward. Applies bleeding."
+     },
+     {
+      "n": 2,
+      "name": "Scatter Step",
+      "description": "Petal Dash. Rapid dash in any direction leaving a petal trail; can be chained multiple times and used in the air. Includes invincibility frames, as stated in the source."
+     },
+     {
+      "n": 3,
+      "name": "Sakura Piercer",
+      "description": "Blossom Thrust. High-speed thrust fires a condensed petal blade through enemies, leaving a blossom mark that explodes."
+     },
+     {
+      "n": 4,
+      "name": "Petal Storm",
+      "description": "Area Control. Massive storm of blossom petals surrounds the user, pulls enemies in, deals continuous damage and reduces movement speed."
+     },
+     {
+      "n": 5,
+      "name": "Requiem Garden",
+      "description": "Domain Field. Summon a cursed garden with endless petals; enemies take damage over time, have reduced vision and are slowed; heals the user over time."
+     },
+     {
+      "n": 6,
+      "name": "Falling Sakura",
+      "description": "Aerial Barrage. Rain giant sakura petals from the sky; highly effective for crowd control and heavy damage across a wide area."
+     },
+     {
+      "n": 7,
+      "name": "Ryuubi Requiem",
+      "description": "Blossom Spirit Dragon. Summon a massive blossom spirit dragon that charges forward, striking enemies in its path; can be steered briefly before detonating in a titanic petal explosion."
+     },
+     {
+      "n": 8,
+      "name": "Thousand Blossoms",
+      "description": "Ultimate. Unleash the Thousand Blossom Requiem's full power, engulfing the battlefield in petals, blades and spirit energy; massive damage, extended range and stunning finish."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "sakura katana",
+    "artwork": "T7__Thousand_Blossom_Requiem.jpg"
+   },
+   {
+    "name": "Aftershock",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Echo Knuckle",
+      "description": "Punch an enemy, creating an impact imprint that detonates shortly afterward."
+     },
+     {
+      "n": 2,
+      "name": "Fault Step",
+      "description": "Lunge forward, leaving impact imprints beneath crossed enemies; imprints launch them when triggered."
+     },
+     {
+      "n": 3,
+      "name": "Rebound Strike",
+      "description": "Close-range strike with a secondary impact launching the target in the opposite direction."
+     },
+     {
+      "n": 4,
+      "name": "Impact Lattice",
+      "description": "Place three impact points; when one activates, the others detonate in sequence."
+     },
+     {
+      "n": 5,
+      "name": "Double Rupture",
+      "description": "Slam the ground, creating two successive impact rings with different knockback directions."
+     },
+     {
+      "n": 6,
+      "name": "Stored Collision",
+      "description": "Absorb part of the next incoming physical hit and convert it into a delayed counterstrike."
+     },
+     {
+      "n": 7,
+      "name": "Second Impact",
+      "description": "Instantly activate all existing impact imprints within range."
+     },
+     {
+      "n": 8,
+      "name": "Catastrophic Echo",
+      "description": "Rapid combo places several impact imprints that erupt together in a massive finishing blow."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T7__Aftershock.jpg"
+   },
+   {
+    "name": "Volcanic Titan",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Magma Slash",
+      "description": "Lava Strike. Condensed-magma slash releases a wave of lava; leaves a burning ground trail dealing continuous damage."
+     },
+     {
+      "n": 2,
+      "name": "Seismic Step",
+      "description": "Ground Dash. Rapid forward dash shatters the ground and generates a seismic shockwave; hit enemies are launched and stunned."
+     },
+     {
+      "n": 3,
+      "name": "Magma Spear",
+      "description": "Eruption Spike. Massive magma spear erupts from the ground and pierces enemies; can be charged for a larger area and higher damage."
+     },
+     {
+      "n": 4,
+      "name": "Volcanic Prison",
+      "description": "Lava Cage. Ring of erupting rocks/lava traps enemies inside, continuously damages and reduces movement speed."
+     },
+     {
+      "n": 5,
+      "name": "Titan’s Grasp",
+      "description": "Crushing Hold. Massive molten-rock hand grabs enemies, crushes them with extreme pressure, and deals heavy damage plus a stun."
+     },
+     {
+      "n": 6,
+      "name": "Meteor Rain",
+      "description": "Falling Calamity. Molten meteors fall from the sky; each impact explodes and leaves burning lava pools."
+     },
+     {
+      "n": 7,
+      "name": "Volcanic Colossus",
+      "description": "Erupting Construct. Summon a colossal volcanic construct that charges forward with massive strikes and magma blasts, destroys terrain and dominates the battlefield."
+     },
+     {
+      "n": 8,
+      "name": "World Eruption",
+      "description": "Ultimate. Full Volcanic Titan power engulfs the area in lava, meteors and erupting mountains, dealing massive damage, extending range and leaving lasting terrain destruction."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T7__Volcanic_Titan.jpg"
+   },
+   {
+    "name": "Thanatos Requiem",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Requiem Slash",
+      "description": "Soul Strike. Precise slash releases a wave of condensed death energy, leaving a lingering trail that drains enemy souls over time."
+     },
+     {
+      "n": 2,
+      "name": "Shadow Step",
+      "description": "Death Dash. Rapid dash in any direction, turning into a shadow that leaves mist and soul fragments; can be chained multiple times. Includes invincibility frames, as stated in the source."
+     },
+     {
+      "n": 3,
+      "name": "Soul Pierce",
+      "description": "Reaper Thrust. Piercing death-energy strike passes through enemies, leaving a mark that explodes into souls after a short delay."
+     },
+     {
+      "n": 4,
+      "name": "Grave Dominion",
+      "description": "Area Control. Erupting spectral spikes and soul chains trap enemies; continuously damages, reduces movement speed and pulls enemies toward the center."
+     },
+     {
+      "n": 5,
+      "name": "Soul Harvest",
+      "description": "Sustain. Pull nearby enemies toward the user and harvest their souls; heals based on damage dealt and restores energy."
+     },
+     {
+      "n": 6,
+      "name": "Death Meteors",
+      "description": "Falling Requiem. Massive spectral meteors rain from the sky; each impact explodes with soul energy and leaves lingering death zones."
+     },
+     {
+      "n": 7,
+      "name": "Reaper’s Waltz",
+      "description": "Spectral Scythe. High-speed series of scythe strikes surrounded by spectral afterimages and soul chains; hits multiple times and launches enemies."
+     },
+     {
+      "n": 8,
+      "name": "Thanatos Requiem",
+      "description": "Ultimate. Full Thanatos Requiem power turns the area into a realm of death: massive soul chains, spectral reapers and a void eclipse decimate everything in range; ends with an execution."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation",
+     "Has Aura"
+    ],
+    "weapon": "cursed scythe",
+    "artwork": "T7__Thanatos_Requiem.jpg"
+   },
+   {
+    "name": "Blade Works",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Blade Summon",
+      "description": "Summons multiple blades from spatial rifts."
+     },
+     {
+      "n": 2,
+      "name": "Thunder Slash",
+      "description": "High-speed multi-slash infused with thunder."
+     },
+     {
+      "n": 3,
+      "name": "Void Cage",
+      "description": "Traps enemies in a cage of blades."
+     },
+     {
+      "n": 4,
+      "name": "Blade Storm",
+      "description": "Creates a massive storm of rotating blades."
+     },
+     {
+      "n": 5,
+      "name": "Divine Formation",
+      "description": "Forms complex blade arrays for offense or defense."
+     },
+     {
+      "n": 6,
+      "name": "Oblivion Cut",
+      "description": "A final slash that erases space along its path."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "Almighty Sword",
+    "artwork": "T7__Blade_Works.jpg"
+   },
+   {
+    "name": "Hyper Speed",
+    "tier": "T7 God grade",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Hyper Dash",
+      "description": "Move in a burst of extreme speed."
+     },
+     {
+      "n": 2,
+      "name": "Time Fracture",
+      "description": "Deliver an attack that hits repeatedly through a temporal fracture."
+     },
+     {
+      "n": 3,
+      "name": "Speed Clone",
+      "description": "Create a speed-generated afterimage."
+     },
+     {
+      "n": 4,
+      "name": "Velocity Storm",
+      "description": "Rush through an area with a high-speed attack."
+     },
+     {
+      "n": 5,
+      "name": "Temporal Slash",
+      "description": "Release a temporal slash wave at range."
+     },
+     {
+      "n": 6,
+      "name": "Rapid Combo",
+      "description": "Perform a high-speed sequence of basic attacks. [Artwork displays lowercase “m1”; this denotes basic-attack input wording, not a separate ability.]"
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T7__Hyper_Speed.jpg"
+   }
+  ],
+  "T6 Legendary": [
+   {
+    "name": "Dullahan",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Headless Charge",
+      "description": "Summon a spectral horse for a high-speed forward charge that knocks enemies aside and leaves spectral flames."
+     },
+     {
+      "n": 2,
+      "name": "Executioner’s Cleave",
+      "description": "Heavy blade strike dealing massive damage and applying an Execution Mark."
+     },
+     {
+      "n": 3,
+      "name": "Phantom Gallop",
+      "description": "Briefly ride through enemies, hitting multiple times and leaving a lingering spectral trail."
+     },
+     {
+      "n": 4,
+      "name": "Grave Pursuit",
+      "description": "Dash toward a marked enemy and deliver a follow-up strike; consume one Execution Mark for increased damage."
+     },
+     {
+      "n": 5,
+      "name": "Headless Guard",
+      "description": "Block an incoming attack with the executioner’s blade and counterattack with a spectral slash."
+     },
+     {
+      "n": 6,
+      "name": "Midnight Rider",
+      "description": "Summon the spectral horse for mounted strikes that hit nearby enemies across a wide area."
+     },
+     {
+      "n": 7,
+      "name": "Executioner’s Judgment (Ultimate)",
+      "description": "Consume all Execution Marks for a devastating finishing attack that deals massive damage across a large area."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "Executioner's Blade",
+    "artwork": "T6__Dullahan.jpg"
+   },
+   {
+    "name": "Harbinger",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Omen Toss",
+      "description": "Throw one energy scythe at the target, dealing damage and applying an Omen Mark."
+     },
+     {
+      "n": 2,
+      "name": "Twin Reaping",
+      "description": "Throw both scythes along separate curved trajectories that seek nearby enemies."
+     },
+     {
+      "n": 3,
+      "name": "Phantom Recall",
+      "description": "Recall both scythes, damaging enemies along their return paths."
+     },
+     {
+      "n": 4,
+      "name": "Crescent Cross",
+      "description": "Make the scythes’ trajectories intersect to produce a large energy burst at the crossing point."
+     },
+     {
+      "n": 5,
+      "name": "Reaper’s Orbit",
+      "description": "Circle the scythes around the user, then launch them outward at high speed."
+     },
+     {
+      "n": 6,
+      "name": "Harbinger Rush",
+      "description": "Dash forward while the scythes repeatedly strike nearby targets, leaving omen-energy trails."
+     },
+     {
+      "n": 7,
+      "name": "Final Omen (Ultimate)",
+      "description": "Rapid series of dual-scythe throws ending in an enormous crossing strike over a large area."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "twin void scythes",
+    "artwork": "T6__Harbinger.jpg"
+   },
+   {
+    "name": "Phantom Archer",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Ghost Arrow",
+      "description": "Fast spectral arrow passes through obstacles and damages its target."
+     },
+     {
+      "n": 2,
+      "name": "Wraith Volley",
+      "description": "Fire five spectral arrows in a narrow spread, piercing enemies along their path."
+     },
+     {
+      "n": 3,
+      "name": "Phantom Draw",
+      "description": "Charge a powerful arrow that penetrates multiple enemies and deals increased damage."
+     },
+     {
+      "n": 4,
+      "name": "Specter Step",
+      "description": "Quickly reposition while drawing the next arrow, leaving a ghostly afterimage."
+     },
+     {
+      "n": 5,
+      "name": "Haunting Mark",
+      "description": "Mark an enemy with a spectral sigil to increase accuracy and damage against them."
+     },
+     {
+      "n": 6,
+      "name": "Ethereal Rain",
+      "description": "Fire arrows upward to rain on a targeted area and damage every enemy within."
+     },
+     {
+      "n": 7,
+      "name": "Hunter’s Finale (Ultimate)",
+      "description": "Fire a colossal spectral arrow that fractures into hundreds of smaller arrows on impact, covering a large area."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "spectral longbow",
+    "artwork": "T6__Phantom_Archer.jpg"
+   },
+   {
+    "name": "Hydra",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Venom Lash",
+      "description": "Fast, fluid whip strike applies Hydra Venom stacks."
+     },
+     {
+      "n": 2,
+      "name": "Serpent Fang",
+      "description": "Fire a concentrated venom projectile from the whip tip, damaging and applying venom."
+     },
+     {
+      "n": 3,
+      "name": "Hydra Coil",
+      "description": "Wrap the whip around an enemy to restrict movement and continuously apply venom."
+     },
+     {
+      "n": 4,
+      "name": "Toxic Barrage",
+      "description": "Launch multiple venom projectiles in a spread over a wide area."
+     },
+     {
+      "n": 5,
+      "name": "Venom Snap",
+      "description": "Crack the whip to detonate existing venom stacks, causing a poison-damage burst and “additional effects.”"
+     },
+     {
+      "n": 6,
+      "name": "Serpent’s Reach",
+      "description": "Extend the whip for a long-range sweep that pulls enemies and applies venom along its path."
+     },
+     {
+      "n": 7,
+      "name": "Hydra’s Wrath (Ultimate)",
+      "description": "Several spectral hydra heads emerge from the whip, firing coordinated venom blasts before a massive toxic eruption."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "serpent whip",
+    "artwork": "T6__Hydra.jpg"
+   },
+   {
+    "name": "Dream",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Sleep Mist",
+      "description": "Fire dream mist that slows enemies, reduces accuracy and applies drowsiness over time."
+     },
+     {
+      "n": 2,
+      "name": "Daydream",
+      "description": "Create temporary illusionary clones that move forward, confuse enemies and draw their attention."
+     },
+     {
+      "n": 3,
+      "name": "Nightmare Bolt",
+      "description": "Long-range bolt pierces enemies and applies fear on hit."
+     },
+     {
+      "n": 4,
+      "name": "Lucid Shield",
+      "description": "Protective dream barrier blocks incoming attacks and briefly distorts enemy vision."
+     },
+     {
+      "n": 5,
+      "name": "Pillow Drop",
+      "description": "Massive dream-energy pillow falls from above, dealing area damage and launching enemies."
+     },
+     {
+      "n": 6,
+      "name": "Dreamwalk",
+      "description": "Phase into the dreamscape, become semi-transparent, dash through enemies and reappear at the target location."
+     },
+     {
+      "n": 7,
+      "name": "Never Wake",
+      "description": "Trap enemies in a looping dream state that repeats their movement and leaves them vulnerable to follow-up attacks."
+     },
+     {
+      "n": 8,
+      "name": "Shared Dream (Ultimate)",
+      "description": "Pull enemies into a reality-distorted dreamscape, trapping them in illusions and inflicting continuous damage while reversing controls and overwhelming vision."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T6__Dream.jpg"
+   },
+   {
+    "name": "Chaos",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Chaos Orb",
+      "description": "Unstable chaotic-energy orb explodes on impact, dealing high damage and applying a distortion effect."
+     },
+     {
+      "n": 2,
+      "name": "Reality Shard",
+      "description": "Multiple piercing shards travel in a spread, passing through enemies and distorting their movement."
+     },
+     {
+      "n": 3,
+      "name": "Void Ring",
+      "description": "Rotating void ring travels forward and returns, damaging enemies on both paths."
+     },
+     {
+      "n": 4,
+      "name": "Entropy Blast",
+      "description": "Concentrated blast destabilizes an area, pulls enemies inward and then explodes for massive damage."
+     },
+     {
+      "n": 5,
+      "name": "Distortion Beam",
+      "description": "Continuous chaotic beam warps space, dealing sustained damage and slowing enemies."
+     },
+     {
+      "n": 6,
+      "name": "Gravity Shift",
+      "description": "Gravity field lifts and stuns enemies, warps their position, then slams them down."
+     },
+     {
+      "n": 7,
+      "name": "Chaos Nova",
+      "description": "Massive reality-shattering nova deals heavy wide-area damage and applies chaos stacks."
+     },
+     {
+      "n": 8,
+      "name": "Oblivion (Ultimate)",
+      "description": "Open a chaotic-void rift that pulls enemies in, tears the battlefield apart for catastrophic damage and leaves a lingering distortion zone."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T6__Chaos.jpg"
+   },
+   {
+    "name": "Spectral Falcon",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Feather Shot",
+      "description": "Rapidly fire high-speed spectral feathers that pierce enemies for consistent damage."
+     },
+     {
+      "n": 2,
+      "name": "Hawk Dive",
+      "description": "Command the spectral falcon to dive at a target, dealing high damage and launching enemies upward."
+     },
+     {
+      "n": 3,
+      "name": "Guiding Feathers",
+      "description": "Release tracking feathers that home in, circle enemies and explode on impact."
+     },
+     {
+      "n": 4,
+      "name": "Wind Slash",
+      "description": "Wide arc of wind-infused feathers cuts through enemies with heavy damage and knockback."
+     },
+     {
+      "n": 5,
+      "name": "Falcon Orb",
+      "description": "Concentrated orb explodes into a burst of feathers for massive area damage."
+     },
+     {
+      "n": 6,
+      "name": "Aerial Step",
+      "description": "Dash in any direction using falcon wings, leaving spectral feathers; can be chained for aerial combat."
+     },
+     {
+      "n": 7,
+      "name": "Sky Hunter",
+      "description": "Call multiple spectral falcons to attack from above, dealing continuous damage over a wide area."
+     },
+     {
+      "n": 8,
+      "name": "Eternal Flight (Ultimate)",
+      "description": "Colossal spectral falcon soars through the battlefield, unleashing feathers and wind blasts for massive damage and keeping enemies airborne."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T6__Spectral_Falcon.jpg"
+   },
+   {
+    "name": "Thunder Gods Arts",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Thunder Dash",
+      "description": "High-speed movement leaves lightning afterimages."
+     },
+     {
+      "n": 2,
+      "name": "Lance Strike",
+      "description": "Powerful lance thrusts infused with thunder."
+     },
+     {
+      "n": 3,
+      "name": "Celestial Blades",
+      "description": "Summon and control wing blades for ranged attacks."
+     },
+     {
+      "n": 4,
+      "name": "Thunder Ring",
+      "description": "Create a storm field that damages and stuns."
+     },
+     {
+      "n": 5,
+      "name": "Dragon Ascension",
+      "description": "Transform into a massive thunder dragon."
+     },
+     {
+      "n": 6,
+      "name": "Divine Eruption (Ultimate)",
+      "description": "Catastrophic lightning strike obliterates an area."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "thunder lance and celestial blade-wings",
+    "artwork": "T6__Thunder_Gods_Arts.jpg"
+   },
+   {
+    "name": "Light Speed",
+    "tier": "T6 Legendary",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Light Dash",
+      "description": "Quick movement. New description for review: Dash forward at light-like speed, leaving a luminous trail."
+     },
+     {
+      "n": 2,
+      "name": "Radiant Strike",
+      "description": "Printed role: “m1 / combo.” New description for review: Deliver a rapid light-infused basic strike or combo."
+     },
+     {
+      "n": 3,
+      "name": "Photon Burst",
+      "description": "Printed role: “AoE explosion.” New description for review: Release a burst of light that explodes over the surrounding area."
+     },
+     {
+      "n": 4,
+      "name": "Prism Slash",
+      "description": "Printed role: “ranged slash.” New description for review: Send a cutting slash of light toward a distant target."
+     },
+     {
+      "n": 5,
+      "name": "Light Step",
+      "description": "Printed role: “counter / evade.” New description for review: Use a swift light-speed step to evade an attack or create a counterattack opening."
+     },
+     {
+      "n": 6,
+      "name": "Solar Wave",
+      "description": "Printed role: “line attack.” New description for review: Project a wave of light along a straight path."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T6__Light_Speed.jpg"
+   }
+  ],
+  "T5 Mythical": [
+   {
+    "name": "Dragonfire",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Dragonfire Shot",
+      "description": "Concentrated draconic fireball explodes on impact, dealing heavy damage and applying burn."
+     },
+     {
+      "n": 2,
+      "name": "Dragon Breath",
+      "description": "Massive cone of dragonfire scorches everything ahead with continuous damage and knockback."
+     },
+     {
+      "n": 3,
+      "name": "Flame Spear",
+      "description": "Hurl a high-speed draconic-flame spear that pierces enemies, deals heavy damage and explodes at the end of its path."
+     },
+     {
+      "n": 4,
+      "name": "Inferno Wave",
+      "description": "Sweep a large dragonfire wave in a wide arc for massive area damage and enemy launch."
+     },
+     {
+      "n": 5,
+      "name": "Dragon Ascension (Ultimate)",
+      "description": "Summon the fire dragon’s full power as an enormous inferno that continuously damages, creates explosions and leaves a burning field."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T5__Dragonfire.jpg"
+   },
+   {
+    "name": "Kraken",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Abyssal Tentacle",
+      "description": "Summon a colossal tentacle from the depths to strike for heavy damage and launch enemies."
+     },
+     {
+      "n": 2,
+      "name": "Tidal Crush",
+      "description": "Massive water-pressure wave pulls enemies inward and crushes them with overwhelming force."
+     },
+     {
+      "n": 3,
+      "name": "Whirlpool",
+      "description": "Rotating whirlpool drags enemies to its center, continuously damages them and restricts movement."
+     },
+     {
+      "n": 4,
+      "name": "Abyssal Spear",
+      "description": "High-speed compressed abyssal-water spear pierces enemies with heavy damage and knockback."
+     },
+     {
+      "n": 5,
+      "name": "Leviathan Ascension (Ultimate)",
+      "description": "Summon the Kraken’s full power, raising a colossal form from the depths; tentacles erupt across the battlefield for continuous damage, crushing enemies and creating a flood zone."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T5__Kraken.jpg"
+   },
+   {
+    "name": "Thunderbird",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Thunder Shot",
+      "description": "Concentrated lightning bolt explodes on impact, dealing heavy damage and briefly stunning."
+     },
+     {
+      "n": 2,
+      "name": "Sky Dash",
+      "description": "Lightning-surrounded high-speed dash strikes enemies in its path and leaves an electric trail."
+     },
+     {
+      "n": 3,
+      "name": "Storm Wing",
+      "description": "Wide arc of storm-infused wing slashes cuts through enemies for heavy damage and knockback."
+     },
+     {
+      "n": 4,
+      "name": "Lightning Field",
+      "description": "Storm field repeatedly strikes enemies with lightning, dealing damage over time and slowing movement."
+     },
+     {
+      "n": 5,
+      "name": "Thunder Ascension (Ultimate)",
+      "description": "Summon Thunderbird’s full power in a colossal storm form that unleashes continuous lightning strikes, wind and explosive thunder over a massive area."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T5__Thunderbird.jpg"
+   },
+   {
+    "name": "Snake",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Venom Shot",
+      "description": "Fire a concentrated venom projectile at an enemy."
+     },
+     {
+      "n": 2,
+      "name": "Serpent Strike",
+      "description": "Unleash a sweeping serpent-shaped strike against enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Petrifying Gaze",
+      "description": "Direct a petrifying gaze toward enemies to hinder their movement."
+     },
+     {
+      "n": 4,
+      "name": "Venomous Fang Barrage",
+      "description": "Launch a rapid barrage of venomous fang-shaped projectiles."
+     },
+     {
+      "n": 5,
+      "name": "Basilisk Ascension",
+      "description": "Manifest a towering serpent presence around the user and release its power in a sweeping attack."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T5__Snake.jpg"
+   },
+   {
+    "name": "Basilisk",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Petrifying Gaze",
+      "description": "Powerful gaze slowly turns enemies to stone, immobilizing them before full petrification."
+     },
+     {
+      "n": 2,
+      "name": "Serpent Rush",
+      "description": "Transform into a semi-transparent snake and rush forward at high speed, dealing damage and applying brief petrification."
+     },
+     {
+      "n": 3,
+      "name": "Toxic Spit",
+      "description": "Concentrated venom projectile explodes on impact, spreading toxic shards and slowing enemies."
+     },
+     {
+      "n": 4,
+      "name": "Coil Bind",
+      "description": "Spectral coils bind enemies, restrict movement and gradually petrify them."
+     },
+     {
+      "n": 5,
+      "name": "Stone Spikes",
+      "description": "Petrified stone spikes erupt from the ground in a wide area, dealing heavy damage, slowing and adding petrification buildup."
+     },
+     {
+      "n": 6,
+      "name": "Serpent Clones",
+      "description": "Multiple spectral snake clones chase and bite enemies, applying venom and petrification effects."
+     },
+     {
+      "n": 7,
+      "name": "Venom Storm",
+      "description": "Massive venomous storm covers a wide area with continuous damage, slowing enemies and increasing petrification buildup."
+     },
+     {
+      "n": 8,
+      "name": "Basilisk Ascension (Ultimate)",
+      "description": "Transform into a colossal spectral basilisk, gaining enhanced speed and damage plus a continuous petrifying aura affecting nearby enemies."
+     }
+    ],
+    "tags": [
+     "Has Transformation",
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T5__Basilisk.jpg"
+   },
+   {
+    "name": "Griffin",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Talon Strike",
+      "description": "Slash nearby enemies with the feathered gauntlets, projecting a golden talon-like arc."
+     },
+     {
+      "n": 2,
+      "name": "Wing Gust",
+      "description": "Send a gust of feather-filled wind forward to strike enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Sky Pounce",
+      "description": "Leap into a descending gauntlet strike against a target below."
+     },
+     {
+      "n": 4,
+      "name": "Feather Barrage",
+      "description": "Fire a spread of sharp golden feather projectiles."
+     },
+     {
+      "n": 5,
+      "name": "Guardian Roar",
+      "description": "Release an outward wind shockwave that pushes surrounding enemies away."
+     },
+     {
+      "n": 6,
+      "name": "Cyclone Dive",
+      "description": "Dive through enemies inside a spinning spiral of wind and feathers."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "feathered gauntlets",
+    "artwork": "T5__Griffin.jpg"
+   },
+   {
+    "name": "Sphinx",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Riddle Lock",
+      "description": "Enclose a target in rotating riddle seals that restrain its movement."
+     },
+     {
+      "n": 2,
+      "name": "False Passage",
+      "description": "Create deceptive glyph-framed passages and false images to confuse enemies about the user’s location."
+     },
+     {
+      "n": 3,
+      "name": "Glyph Reversal",
+      "description": "Raise a reflective glyph barrier that turns an incoming attack back toward its source."
+     },
+     {
+      "n": 4,
+      "name": "Answer Break",
+      "description": "Shatter a glyph seal around a target in a burst of energy and fragments."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T5__Sphinx.jpg"
+   },
+   {
+    "name": "Minotaur",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Axe Cleave",
+      "description": "Swing the battle axe in a broad arc to strike nearby enemies."
+     },
+     {
+      "n": 2,
+      "name": "Bull Rush",
+      "description": "Charge forward with the axe, striking enemies in the charge path."
+     },
+     {
+      "n": 3,
+      "name": "Seismic Stomp",
+      "description": "Stomp the ground to release a circular shockwave through nearby enemies."
+     },
+     {
+      "n": 4,
+      "name": "Labyrinth Wall",
+      "description": "Raise a labyrinth-patterned stone wall to block a path or separate combatants."
+     },
+     {
+      "n": 5,
+      "name": "Labyrinth Breaker",
+      "description": "Bring the axe down in a heavy ground strike that erupts in stone and energy around the impact."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "double-bladed battle axe",
+    "artwork": "T5__Minotaur.jpg"
+   },
+   {
+    "name": "Moonweaver",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Moonstep",
+      "description": "High-speed dash leaves lunar afterimages."
+     },
+     {
+      "n": 2,
+      "name": "Moonslash Wave",
+      "description": "Crescent-shaped energy wave cuts through enemies."
+     },
+     {
+      "n": 3,
+      "name": "Lunar Ward",
+      "description": "Create a defensive barrier of moonlight."
+     },
+     {
+      "n": 4,
+      "name": "Eclipse Brand",
+      "description": "Mark enemies with a lunar sigil, increasing damage taken."
+     },
+     {
+      "n": 5,
+      "name": "Moonfall (Ultimate)",
+      "description": "Call down a massive lunar strike from the sky."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "Moonblade",
+    "artwork": "T5__Moonweaver.jpg"
+   },
+   {
+    "name": "Black Treasure Flame",
+    "tier": "T5 Mythical",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Void Ignition",
+      "description": "Printed role: “m1 / basic attack.” New description for review: Strike with a burst of black-and-crimson flame as the element’s basic attack."
+     },
+     {
+      "n": 2,
+      "name": "Treasure Burn",
+      "description": "Printed role: “area burst.” New description for review: Release a burst of consuming flame around the user."
+     },
+     {
+      "n": 3,
+      "name": "Cinder Eruption",
+      "description": "Printed role: “uppercut.” New description for review: Drive flame upward in an erupting uppercut."
+     },
+     {
+      "n": 4,
+      "name": "Ashen Wave",
+      "description": "Printed role: “wide slash.” New description for review: Sweep a wide arc of dark flame through enemies ahead."
+     },
+     {
+      "n": 5,
+      "name": "Black Flare",
+      "description": "Printed role: “projectile.” New description for review: Fire a concentrated black-flame projectile at a target."
+     },
+     {
+      "n": 6,
+      "name": "Soul Consume",
+      "description": "Printed role: “grab/absorb.” New description for review: Catch a nearby target with consuming flame and draw its energy inward."
+     }
+    ],
+    "tags": [
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T5__Black_Treasure_Flame.jpg"
+   }
+  ],
+  "T4 Epic": [
+   {
+    "name": "Plasma",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Plasma Shot",
+      "description": "Fire a concentrated bolt of superheated plasma at a target."
+     },
+     {
+      "n": 2,
+      "name": "Ion Slash",
+      "description": "Sweep a cutting arc of ionized energy through enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Thermal Burst",
+      "description": "Release a sudden burst of intense heat around the target area."
+     },
+     {
+      "n": 4,
+      "name": "Plasma Cage",
+      "description": "Form a plasma enclosure around a target to restrict its movement."
+     },
+     {
+      "n": 5,
+      "name": "Fusion Nova",
+      "description": "Detonate a gathered mass of plasma in a large energy burst."
+     },
+     {
+      "n": 6,
+      "name": "Plasma Zone",
+      "description": "Create a sustained area filled with volatile plasma that threatens enemies inside it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T4__Plasma.jpg"
+   },
+   {
+    "name": "Mirror",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Mirror Shot",
+      "description": "Fire a sharp reflective-energy projectile toward an enemy."
+     },
+     {
+      "n": 2,
+      "name": "Reflection Slash",
+      "description": "Strike with a cutting arc of mirrored light."
+     },
+     {
+      "n": 3,
+      "name": "Clone Step",
+      "description": "Reposition while leaving a mirrored duplicate to confuse opponents."
+     },
+     {
+      "n": 4,
+      "name": "Reverse Field",
+      "description": "Create a reflective field that redirects incoming attacks."
+     },
+     {
+      "n": 5,
+      "name": "Shatter Mirror",
+      "description": "Shatter a conjured mirror into a burst of damaging fragments."
+     },
+     {
+      "n": 6,
+      "name": "Mirage Zone",
+      "description": "Surround an area with shifting reflections and false images that obscure the user’s true position."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T4__Mirror.jpg"
+   },
+   {
+    "name": "Illusion",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Illusion Shot",
+      "description": "Launch a pulse of illusion energy that disrupts a target’s perception."
+     },
+     {
+      "n": 2,
+      "name": "Mind Trick",
+      "description": "Confuse a target with deceptive sensory impressions."
+     },
+     {
+      "n": 3,
+      "name": "Phantom Step",
+      "description": "Reposition behind misleading phantom afterimages."
+     },
+     {
+      "n": 4,
+      "name": "False Reality",
+      "description": "Project a deceptive scene that makes enemies misread their surroundings."
+     },
+     {
+      "n": 5,
+      "name": "Distortion Burst",
+      "description": "Release a burst of visual distortion around enemies."
+     },
+     {
+      "n": 6,
+      "name": "Illusion Zone",
+      "description": "Fill an area with layered illusions and false positions that interfere with enemy awareness."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T4__Illusion.jpg"
+   },
+   {
+    "name": "Kinetic",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Kinetic Strike",
+      "description": "Deliver a focused impact amplified by kinetic energy."
+     },
+     {
+      "n": 2,
+      "name": "Force Push",
+      "description": "Project a pulse of force that pushes enemies away."
+     },
+     {
+      "n": 3,
+      "name": "Momentum Slash",
+      "description": "Release gathered momentum as a fast cutting arc."
+     },
+     {
+      "n": 4,
+      "name": "Gravity Step",
+      "description": "Redirect force around the user to make a rapid movement step."
+     },
+     {
+      "n": 5,
+      "name": "Shockwave Burst",
+      "description": "Release stored kinetic force as an outward shockwave."
+     },
+     {
+      "n": 6,
+      "name": "Kinetic Zone",
+      "description": "Establish a field of circulating force that disrupts movement within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T4__Kinetic.jpg"
+   },
+   {
+    "name": "Hex",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Hex Shot",
+      "description": "Fire a concentrated curse projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Curse Mark",
+      "description": "Place a dark sigil on an enemy to afflict it with a weakening curse."
+     },
+     {
+      "n": 3,
+      "name": "Drain Field",
+      "description": "Create a cursed field that saps enemies caught within it."
+     },
+     {
+      "n": 4,
+      "name": "Hex Bind",
+      "description": "Bind a target with dark sigils to restrict movement."
+     },
+     {
+      "n": 5,
+      "name": "Unravel",
+      "description": "Release a focused hex that destabilizes a target with curse energy."
+     },
+     {
+      "n": 6,
+      "name": "Hex Zone",
+      "description": "Cover an area with dark sigils that subject enemies inside to the element’s curses."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T4__Hex.jpg"
+   },
+   {
+    "name": "Black Steel",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Steel Slash",
+      "description": "Create a high-speed arc of condensed steel."
+     },
+     {
+      "n": 2,
+      "name": "Iron Spike",
+      "description": "Summon steel spikes from the ground to impale enemies."
+     },
+     {
+      "n": 3,
+      "name": "Blade Construct",
+      "description": "Form and control multiple steel weapons."
+     },
+     {
+      "n": 4,
+      "name": "Steel Armor",
+      "description": "Generate a steel armor shell to increase defense."
+     },
+     {
+      "n": 5,
+      "name": "Metal Domain",
+      "description": "Create a field of floating steel constructs that attack and restrict movement."
+     },
+     {
+      "n": 6,
+      "name": "Forge Collapse",
+      "description": "Summon a massive steel construct that crashes down, crushing anything in its path."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T4__Black_Steel.jpg"
+   },
+   {
+    "name": "Frost Knight",
+    "tier": "T4 Epic",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Ice Slash",
+      "description": "Powerful freezing slash."
+     },
+     {
+      "n": 2,
+      "name": "Frost Shield",
+      "description": "Create an ice barrier."
+     },
+     {
+      "n": 3,
+      "name": "Ice Spike",
+      "description": "Summon ice spikes."
+     },
+     {
+      "n": 4,
+      "name": "Blizzard Storm",
+      "description": "Massive area attack. New description for review: Release a swirling blizzard that attacks enemies across a wide area."
+     },
+     {
+      "n": 5,
+      "name": "Absolute Zero",
+      "description": "Printed description: “Freezes everything.” New description for review: Release an intense freezing burst across the surrounding combat area."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "Frostblade greatsword and ice shield",
+    "artwork": "T4__Frost_Knight.jpg"
+   }
+  ],
+  "T3 Rare": [
+   {
+    "name": "Crystal",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Crystal Shot",
+      "description": "Fire a pointed crystal projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Shard Slash",
+      "description": "Sweep a cutting arc of crystal shards through enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Crystal Wall",
+      "description": "Raise a wall of crystal to block attacks or obstruct a path."
+     },
+     {
+      "n": 4,
+      "name": "Prism Burst",
+      "description": "Release a burst of crystalline energy and fragments around the impact area."
+     },
+     {
+      "n": 5,
+      "name": "Crystal Prison",
+      "description": "Enclose a target in crystal to restrict movement."
+     },
+     {
+      "n": 6,
+      "name": "Geode Zone",
+      "description": "Fill an area with erupting crystal formations that threaten enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Crystal.jpg"
+   },
+   {
+    "name": "Acid",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Acid Shot",
+      "description": "Launch a concentrated acid projectile at an enemy."
+     },
+     {
+      "n": 2,
+      "name": "Corrosive Slash",
+      "description": "Sweep a cutting wave of corrosive fluid through targets ahead."
+     },
+     {
+      "n": 3,
+      "name": "Melt Field",
+      "description": "Create a corrosive area that eats away at enemies and obstacles within it."
+     },
+     {
+      "n": 4,
+      "name": "Acid Rain",
+      "description": "Rain acid over a targeted area."
+     },
+     {
+      "n": 5,
+      "name": "Dissolve",
+      "description": "Concentrate acid on a target to break it down through corrosion."
+     },
+     {
+      "n": 6,
+      "name": "Toxic Pool",
+      "description": "Leave a pool of corrosive liquid that harms enemies standing in it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Acid.jpg"
+   },
+   {
+    "name": "Sound",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Sonic Shot",
+      "description": "Fire a focused pulse of sonic energy at a target."
+     },
+     {
+      "n": 2,
+      "name": "Resonance Slash",
+      "description": "Release a cutting arc of concentrated vibration."
+     },
+     {
+      "n": 3,
+      "name": "Sound Wave",
+      "description": "Send a broad wave of sound outward through enemies ahead."
+     },
+     {
+      "n": 4,
+      "name": "Echo Step",
+      "description": "Reposition with a burst of sound and a trailing echo effect."
+     },
+     {
+      "n": 5,
+      "name": "Frequency Bind",
+      "description": "Trap a target in focused vibrations that restrict movement."
+     },
+     {
+      "n": 6,
+      "name": "Bass Zone",
+      "description": "Establish an area of pulsing low-frequency shockwaves that pressures enemies inside it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Sound.jpg"
+   },
+   {
+    "name": "Radiation",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Radiation Shot",
+      "description": "Fire a concentrated projectile of unstable radiation energy."
+     },
+     {
+      "n": 2,
+      "name": "Contaminate",
+      "description": "Coat a target or nearby area in harmful radiating energy."
+     },
+     {
+      "n": 3,
+      "name": "Gamma Burst",
+      "description": "Release a sudden burst of intense radiation energy around the impact area."
+     },
+     {
+      "n": 4,
+      "name": "Mutation",
+      "description": "Alter the user with unstable energy to change their combat state."
+     },
+     {
+      "n": 5,
+      "name": "Fallout Zone",
+      "description": "Create a contaminated zone that harms enemies remaining within it."
+     },
+     {
+      "n": 6,
+      "name": "Irradiate",
+      "description": "Flood a target area with radiating energy."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Radiation.jpg"
+   },
+   {
+    "name": "Tar",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Tar Shot",
+      "description": "Hurl a sticky mass of tar at an enemy."
+     },
+     {
+      "n": 2,
+      "name": "Binding Lash",
+      "description": "Extend a tar tendril that lashes and restrains a target."
+     },
+     {
+      "n": 3,
+      "name": "Tar Wall",
+      "description": "Raise a dense wall of tar to block attacks or movement."
+     },
+     {
+      "n": 4,
+      "name": "Sinking Pool",
+      "description": "Create a tar pool that catches enemies and drags them downward."
+     },
+     {
+      "n": 5,
+      "name": "Consume",
+      "description": "Envelop a caught target in a mass of tar."
+     },
+     {
+      "n": 6,
+      "name": "Tar Zone",
+      "description": "Cover an area in viscous tar that impedes enemies crossing it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Tar.jpg"
+   },
+   {
+    "name": "Rune",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Rune Shot",
+      "description": "Fire a concentrated rune-shaped energy projectile."
+     },
+     {
+      "n": 2,
+      "name": "Sigil Slash",
+      "description": "Sweep a cutting arc of glowing sigil energy through enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Rune Trap",
+      "description": "Place a rune seal that catches an enemy entering its area."
+     },
+     {
+      "n": 4,
+      "name": "Mark",
+      "description": "Apply a glowing rune mark to a selected target."
+     },
+     {
+      "n": 5,
+      "name": "Erasure",
+      "description": "Unleash concentrated rune power in a destructive burst at the target area."
+     },
+     {
+      "n": 6,
+      "name": "Rune Zone",
+      "description": "Establish a large runic field that extends the element’s control over an area."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Rune.jpg"
+   },
+   {
+    "name": "Chain",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Chain Shot",
+      "description": "Launch a spectral chain toward a target."
+     },
+     {
+      "n": 2,
+      "name": "Chain Slash",
+      "description": "Sweep a sharpened spectral chain across enemies ahead."
+     },
+     {
+      "n": 3,
+      "name": "Chain Bind",
+      "description": "Wrap a target in spectral chains to restrict movement."
+     },
+     {
+      "n": 4,
+      "name": "Chain Pull",
+      "description": "Catch an enemy with a chain and pull it toward the user."
+     },
+     {
+      "n": 5,
+      "name": "Execution",
+      "description": "Strike a caught target with converging spectral chains."
+     },
+     {
+      "n": 6,
+      "name": "Chain Zone",
+      "description": "Fill an area with spectral chains that threaten and constrain enemies inside it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Chain.jpg"
+   },
+   {
+    "name": "Swarm",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Swarm Shot",
+      "description": "Send a concentrated cluster of insects toward a target."
+     },
+     {
+      "n": 2,
+      "name": "Hive Spawn",
+      "description": "Summon a hive-like mass that releases insects into the fight."
+     },
+     {
+      "n": 3,
+      "name": "Insect Slash",
+      "description": "Sweep a sharp formation of insects across enemies ahead."
+     },
+     {
+      "n": 4,
+      "name": "Swarm Rush",
+      "description": "Drive the swarm forward in a fast-moving attack."
+     },
+     {
+      "n": 5,
+      "name": "Overwhelm",
+      "description": "Surround a target with a dense swarm that attacks from multiple directions."
+     },
+     {
+      "n": 6,
+      "name": "Hive Zone",
+      "description": "Fill an area with a persistent cloud of hostile insects."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Swarm.jpg"
+   },
+   {
+    "name": "Puppet",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Puppet Bind",
+      "description": "Attach spectral strings to a target to restrain movement."
+     },
+     {
+      "n": 2,
+      "name": "String Slash",
+      "description": "Cut across enemies with taut, sweeping puppet strings."
+     },
+     {
+      "n": 3,
+      "name": "Mind Control",
+      "description": "Use puppet control to direct a targeted enemy’s movements."
+     },
+     {
+      "n": 4,
+      "name": "Marionette",
+      "description": "Animate a string-controlled puppet to act on the user’s behalf."
+     },
+     {
+      "n": 5,
+      "name": "Puppet Army",
+      "description": "Summon multiple controlled puppets to pressure enemies together."
+     },
+     {
+      "n": 6,
+      "name": "String Zone",
+      "description": "Spread a network of spectral strings over an area to interfere with enemy movement."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Puppet.jpg"
+   },
+   {
+    "name": "Vortex",
+    "tier": "T3 Rare",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Vortex Shot",
+      "description": "Fire a compact rotating mass of energy at a target."
+     },
+     {
+      "n": 2,
+      "name": "Spin Slash",
+      "description": "Release a spinning cutting arc around the user or along the aimed path."
+     },
+     {
+      "n": 3,
+      "name": "Gravity Pull",
+      "description": "Create an inward force that pulls nearby enemies toward a central point."
+     },
+     {
+      "n": 4,
+      "name": "Tornado",
+      "description": "Summon a rotating column of force that strikes enemies caught within it."
+     },
+     {
+      "n": 5,
+      "name": "Collapse",
+      "description": "Compress a vortex inward for a concentrated finishing burst."
+     },
+     {
+      "n": 6,
+      "name": "Vortex Zone",
+      "description": "Establish a sustained field of rotating force that draws enemies through its area."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T3__Vortex.jpg"
+   }
+  ],
+  "T2 Uncommon": [
+   {
+    "name": "Lightning",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Volt Strike",
+      "description": "Strikes a target with a concentrated bolt of lightning."
+     },
+     {
+      "n": 2,
+      "name": "Thunder Dash",
+      "description": "Propels the user forward in a lightning-charged dash."
+     },
+     {
+      "n": 3,
+      "name": "Spark Burst",
+      "description": "Releases a short burst of electrical sparks around the user."
+     },
+     {
+      "n": 4,
+      "name": "Lightning Field",
+      "description": "Creates an electrified area that strikes enemies within it."
+     },
+     {
+      "n": 5,
+      "name": "Storm Call",
+      "description": "Calls lightning down onto a targeted area."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Lightning.jpg"
+   },
+   {
+    "name": "Magnet",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Magnet Pull",
+      "description": "Uses magnetic force to draw a target toward the user."
+     },
+     {
+      "n": 2,
+      "name": "Metal Crush",
+      "description": "Closes metal fragments around a target to crush it."
+     },
+     {
+      "n": 3,
+      "name": "Iron Orbit",
+      "description": "Circles the user with iron fragments that strike nearby enemies."
+     },
+     {
+      "n": 4,
+      "name": "Polarity Shift",
+      "description": "Reverses magnetic force to push a target away instead of pulling it closer."
+     },
+     {
+      "n": 5,
+      "name": "Magnetic Zone",
+      "description": "Creates an area of magnetic force that pulls enemies toward its center."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Magnet.jpg"
+   },
+   {
+    "name": "Glass",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Glass Slash",
+      "description": "Cuts forward with a sharp blade of glass."
+     },
+     {
+      "n": 2,
+      "name": "Shatter Burst",
+      "description": "Shatters a glass construct into outward-flying fragments."
+     },
+     {
+      "n": 3,
+      "name": "Mirror Step",
+      "description": "Makes a quick evasive step accompanied by a mirror-like afterimage."
+     },
+     {
+      "n": 4,
+      "name": "Crystal Wall",
+      "description": "Raises a wall of sharp, glass-like crystal to block incoming attacks."
+     },
+     {
+      "n": 5,
+      "name": "Fragment Zone",
+      "description": "Fills an area with suspended glass fragments that strike enemies inside."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Glass.jpg"
+   },
+   {
+    "name": "Thorn",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Thorn Shot",
+      "description": "Fires a pointed thorn at a target."
+     },
+     {
+      "n": 2,
+      "name": "Vine Lash",
+      "description": "Whips a target with a thorn-covered vine."
+     },
+     {
+      "n": 3,
+      "name": "Spiked Surge",
+      "description": "Sends a surge of thorny spikes through the ground toward enemies."
+     },
+     {
+      "n": 4,
+      "name": "Bramble Trap",
+      "description": "Grows a bramble snare that catches an enemy entering it."
+     },
+     {
+      "n": 5,
+      "name": "Thorn Zone",
+      "description": "Covers an area with thorns that harm enemies moving through it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Thorn.jpg"
+   },
+   {
+    "name": "Bone",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Bone Spike",
+      "description": "Projects a sharp bone spike toward a target."
+     },
+     {
+      "n": 2,
+      "name": "Rib Cage",
+      "description": "Raises a cage of curved bones around a target to restrict its movement."
+     },
+     {
+      "n": 3,
+      "name": "Bone Storm",
+      "description": "Whirls bone fragments around the user to strike nearby enemies."
+     },
+     {
+      "n": 4,
+      "name": "Skeleton Guard",
+      "description": "Forms a skeletal barrier that shields the user from attacks."
+     },
+     {
+      "n": 5,
+      "name": "Grave Zone",
+      "description": "Creates an area of rising bones that threatens enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Bone.jpg"
+   },
+   {
+    "name": "Mercury",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Mercury Slash",
+      "description": "Sweeps a blade of liquid metal through nearby targets."
+     },
+     {
+      "n": 2,
+      "name": "Liquid Form",
+      "description": "Briefly reshapes the body into flowing liquid metal to slip away from an attack."
+     },
+     {
+      "n": 3,
+      "name": "Metal Wave",
+      "description": "Sends a rolling wave of liquid metal across the ground."
+     },
+     {
+      "n": 4,
+      "name": "Reflective Skin",
+      "description": "Coats the user in a reflective mercury layer that provides protection."
+     },
+     {
+      "n": 5,
+      "name": "Mercury Zone",
+      "description": "Spreads liquid metal over an area to hinder enemies crossing it."
+     }
+    ],
+    "tags": [
+     "Has Partial Transformation"
+    ],
+    "weapon": null,
+    "artwork": "T2__Mercury.jpg"
+   },
+   {
+    "name": "Rubber",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Stretch Punch",
+      "description": "Extends a rubber-like arm to punch a distant target."
+     },
+     {
+      "n": 2,
+      "name": "Elastic Whip",
+      "description": "Swings an elongated elastic limb in a whipping strike."
+     },
+     {
+      "n": 3,
+      "name": "Rubber Dash",
+      "description": "Stretches and recoils the body to launch into a quick dash."
+     },
+     {
+      "n": 4,
+      "name": "Bounce Zone",
+      "description": "Creates an elastic surface that bounces enemies upward."
+     },
+     {
+      "n": 5,
+      "name": "Gum Bind",
+      "description": "Wraps a target in sticky elastic material to restrict movement."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Rubber.jpg"
+   },
+   {
+    "name": "Silk",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Silk Shot",
+      "description": "Fires a concentrated strand of silk at a target."
+     },
+     {
+      "n": 2,
+      "name": "Thread Slash",
+      "description": "Swings taut silk threads across enemies in a cutting strike."
+     },
+     {
+      "n": 3,
+      "name": "Web Bind",
+      "description": "Entangles a target in a web of silk."
+     },
+     {
+      "n": 4,
+      "name": "Silk Step",
+      "description": "Uses a silk line to pull the user rapidly to a nearby position."
+     },
+     {
+      "n": 5,
+      "name": "Cocoon Zone",
+      "description": "Spreads silk across an area to enclose and hinder enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Silk.jpg"
+   },
+   {
+    "name": "Rust",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Rust Touch",
+      "description": "Applies a corrosive touch to a nearby target."
+     },
+     {
+      "n": 2,
+      "name": "Decay Slash",
+      "description": "Delivers a slashing strike infused with rusting energy."
+     },
+     {
+      "n": 3,
+      "name": "Corrode Field",
+      "description": "Creates a corrosive area that wears down enemies within it."
+     },
+     {
+      "n": 4,
+      "name": "Rust Armor",
+      "description": "Builds a protective shell of rust-colored metal around the user."
+     },
+     {
+      "n": 5,
+      "name": "Oxidize Zone",
+      "description": "Spreads oxidizing energy through an area to corrode affected targets."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Rust.jpg"
+   },
+   {
+    "name": "Mosaic",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Mosaic Shot",
+      "description": "Launches a cluster of colorful mosaic shards at a target."
+     },
+     {
+      "n": 2,
+      "name": "Shard Slash",
+      "description": "Sweeps a sharp arc of mosaic fragments through enemies."
+     },
+     {
+      "n": 3,
+      "name": "Prism Wall",
+      "description": "Builds a defensive wall from interlocking colored shards."
+     },
+     {
+      "n": 4,
+      "name": "Refraction",
+      "description": "Refracts light through mosaic fragments into a spreading burst of energy."
+     },
+     {
+      "n": 5,
+      "name": "Mosaic Zone",
+      "description": "Covers an area with mosaic shards that strike enemies inside."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Mosaic.jpg"
+   },
+   {
+    "name": "Clockwork",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Gear Slash",
+      "description": "Cuts forward with a spinning gear-shaped blade."
+     },
+     {
+      "n": 2,
+      "name": "Time Step",
+      "description": "Makes a short, accelerated step to quickly reposition."
+     },
+     {
+      "n": 3,
+      "name": "Clock Burst",
+      "description": "Releases a pulse of clockwork energy around the user."
+     },
+     {
+      "n": 4,
+      "name": "Mechanic Guard",
+      "description": "Forms a rotating mechanical guard to block incoming attacks."
+     },
+     {
+      "n": 5,
+      "name": "Chrono Zone",
+      "description": "Creates a clock-themed field that slows enemy movement within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Clockwork.jpg"
+   },
+   {
+    "name": "Beehive",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "\\[Unclear prefix/glyph\\] Shot",
+      "description": "Full name unresolved; description withheld until the label is confirmed.  *[Unresolved art label]*"
+     },
+     {
+      "n": 2,
+      "name": "Bee Swarm",
+      "description": "Sends a swarm of bees to attack a target.  *[New description for review]*"
+     },
+     {
+      "n": 3,
+      "name": "Honey Trap",
+      "description": "Places a sticky patch of honey that catches and hinders enemies.  *[New description for review]*"
+     },
+     {
+      "n": 4,
+      "name": "Honey Armor",
+      "description": "Coats the user in a protective honey-like layer.  *[New description for review]*"
+     },
+     {
+      "n": 5,
+      "name": "Hive Zone",
+      "description": "Establishes a hive-centered area where bees attack nearby enemies.  *[New description for review]*"
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Beehive.jpg"
+   },
+   {
+    "name": "Bamboo",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Bamboo Strike",
+      "description": "Thrusts a bamboo stalk forward to strike a target."
+     },
+     {
+      "n": 2,
+      "name": "Leaf Slice",
+      "description": "Launches a cutting sweep of bamboo leaves."
+     },
+     {
+      "n": 3,
+      "name": "Bamboo Wall",
+      "description": "Raises a dense line of bamboo stalks as a barrier."
+     },
+     {
+      "n": 4,
+      "name": "Rapid Growth",
+      "description": "Makes bamboo grow rapidly beneath or around nearby enemies."
+     },
+     {
+      "n": 5,
+      "name": "Forest Zone",
+      "description": "Creates a patch of dense bamboo that obstructs enemies and controls space."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Bamboo.jpg"
+   },
+   {
+    "name": "Firework",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Spark Shot",
+      "description": "Fires a bright spark projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Firework Dash",
+      "description": "Launches the user forward with a burst of fireworks."
+     },
+     {
+      "n": 3,
+      "name": "Burst Blast",
+      "description": "Detonates a firework in a concentrated outward explosion."
+     },
+     {
+      "n": 4,
+      "name": "Festival Rain",
+      "description": "Rains colorful explosive sparks onto a targeted area."
+     },
+     {
+      "n": 5,
+      "name": "Sky Bloom",
+      "description": "Sends a firework upward that blooms into a wide overhead explosion."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Firework.jpg"
+   },
+   {
+    "name": "Shell",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Shell Bash",
+      "description": "Strikes a nearby enemy with a hardened shell."
+     },
+     {
+      "n": 2,
+      "name": "Wave Guard",
+      "description": "Raises a curling wave as a protective guard."
+     },
+     {
+      "n": 3,
+      "name": "Water Spikes",
+      "description": "Projects sharp jets of water upward beneath enemies."
+     },
+     {
+      "n": 4,
+      "name": "Tidal Roll",
+      "description": "Rolls forward inside a shell-like surge of water, striking enemies in the path."
+     },
+     {
+      "n": 5,
+      "name": "Shell Zone",
+      "description": "Creates a shell-shaped protective area surrounded by churning water."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Shell.jpg"
+   },
+   {
+    "name": "Cloud",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Cloud Shot",
+      "description": "Fires a compressed cloud projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Mist Dash",
+      "description": "Moves the user quickly through a trail of mist."
+     },
+     {
+      "n": 3,
+      "name": "Cloud Step",
+      "description": "Creates a brief cloud foothold to aid movement and repositioning."
+     },
+     {
+      "n": 4,
+      "name": "Sky Lift",
+      "description": "Raises the user on an upward current of cloud and air."
+     },
+     {
+      "n": 5,
+      "name": "Nimbus Zone",
+      "description": "Gathers a dense cloud field that obscures the area and hinders enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Cloud.jpg"
+   },
+   {
+    "name": "Nature",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Nature Shot",
+      "description": "Launches a projectile of concentrated plant energy."
+     },
+     {
+      "n": 2,
+      "name": "Forest Slash",
+      "description": "Sweeps a cutting arc of forest growth through nearby enemies."
+     },
+     {
+      "n": 3,
+      "name": "Root Bind",
+      "description": "Grows roots around a target to hold it in place."
+     },
+     {
+      "n": 4,
+      "name": "Wild Growth",
+      "description": "Causes vigorous plant growth to erupt around nearby enemies."
+     },
+     {
+      "n": 5,
+      "name": "Nature Zone",
+      "description": "Fills an area with active plant growth that obstructs and strikes enemies."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T2__Nature.jpg"
+   },
+   {
+    "name": "Steel",
+    "tier": "T2 Uncommon",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Steel Shards",
+      "description": "Ranged. Fires multiple razor-sharp steel shards that pierce enemies and explode into smaller fragments on impact."
+     },
+     {
+      "n": 2,
+      "name": "Metal Wall",
+      "description": "Defense. Creates a durable wall of steel to block incoming attacks. Can be shaped and positioned freely."
+     },
+     {
+      "n": 3,
+      "name": "Blade Surge",
+      "description": "Melee. Forms a massive steel blade and performs a high-speed slashing combo. Each hit releases metallic shockwaves."
+     },
+     {
+      "n": 4,
+      "name": "Steel Pull",
+      "description": "Control. Manipulates nearby metal or steel constructs to pull enemies toward the user. Can also control existing steel objects in the environment."
+     },
+     {
+      "n": 5,
+      "name": "Iron Spikes",
+      "description": "Area. Erupts steel spikes from the ground in a wide area, launching enemies and dealing heavy damage."
+     }
+    ],
+    "tags": [
+     "Has Transformation",
+     "Has Aura"
+    ],
+    "weapon": null,
+    "artwork": "T2__Steel.jpg"
+   }
+  ],
+  "T1 Common": [
+   {
+    "name": "Fire",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Fire Shot",
+      "description": "Fires a concentrated ball of flame at a target."
+     },
+     {
+      "n": 2,
+      "name": "Flame Slash",
+      "description": "Sweeps a blade-like arc of fire through enemies."
+     },
+     {
+      "n": 3,
+      "name": "Firewave",
+      "description": "Sends a broad wave of flame forward."
+     },
+     {
+      "n": 4,
+      "name": "Burn Zone",
+      "description": "Ignites an area so enemies inside are exposed to fire."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Fire.jpg"
+   },
+   {
+    "name": "Water",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Water Shot",
+      "description": "Fires a concentrated projectile of water."
+     },
+     {
+      "n": 2,
+      "name": "Wave Slash",
+      "description": "Cuts across enemies with a fast-moving arc of water."
+     },
+     {
+      "n": 3,
+      "name": "Tidal Push",
+      "description": "Surges water forward to push enemies back."
+     },
+     {
+      "n": 4,
+      "name": "Water Vortex",
+      "description": "Creates a swirling vortex that draws nearby enemies toward its center."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Water.jpg"
+   },
+   {
+    "name": "Earth",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Rock Shot",
+      "description": "Launches a rock at a target."
+     },
+     {
+      "n": 2,
+      "name": "Stone Fist",
+      "description": "Forms a stone-covered fist for a heavy close-range strike."
+     },
+     {
+      "n": 3,
+      "name": "Earth Wall",
+      "description": "Raises a wall of earth to block attacks and movement."
+     },
+     {
+      "n": 4,
+      "name": "Quake",
+      "description": "Shakes the ground around the user to strike and unsettle nearby enemies."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Earth.jpg"
+   },
+   {
+    "name": "Wind",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Wind Shot",
+      "description": "Fires a concentrated blast of air."
+     },
+     {
+      "n": 2,
+      "name": "Gale Slash",
+      "description": "Sweeps a sharp arc of wind through targets."
+     },
+     {
+      "n": 3,
+      "name": "Air Dash",
+      "description": "Propels the user in a quick burst of wind."
+     },
+     {
+      "n": 4,
+      "name": "Wind Zone",
+      "description": "Creates a swirling wind field that disrupts enemies moving through it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Wind.jpg"
+   },
+   {
+    "name": "Light",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Light Shot",
+      "description": "Fires a bright projectile of light."
+     },
+     {
+      "n": 2,
+      "name": "Radiant Slash",
+      "description": "Sweeps a luminous blade-like arc through enemies."
+     },
+     {
+      "n": 3,
+      "name": "Blinding Flash",
+      "description": "Releases a sudden flash that briefly dazzles nearby enemies."
+     },
+     {
+      "n": 4,
+      "name": "Holy Zone",
+      "description": "Creates an area of radiant energy that strikes enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Light.jpg"
+   },
+   {
+    "name": "Dark",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Shadow Shot",
+      "description": "Launches a projectile of condensed shadow."
+     },
+     {
+      "n": 2,
+      "name": "Dark Slash",
+      "description": "Cuts forward with a blade-like arc of dark energy."
+     },
+     {
+      "n": 3,
+      "name": "Void Pull",
+      "description": "Creates a dark pull that draws enemies toward a focal point."
+     },
+     {
+      "n": 4,
+      "name": "Dark Zone",
+      "description": "Spreads a field of dark energy that harms enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Dark.jpg"
+   },
+   {
+    "name": "Ice",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Ice Shot",
+      "description": "Fires an icy projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Frost Slash",
+      "description": "Sweeps a sharp arc of ice through enemies."
+     },
+     {
+      "n": 3,
+      "name": "Ice Spike",
+      "description": "Raises a pointed ice spike beneath or in front of a target."
+     },
+     {
+      "n": 4,
+      "name": "Freeze Zone",
+      "description": "Chills an area to freeze or impede enemies caught within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Ice.jpg"
+   },
+   {
+    "name": "Plant",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Vine Shot",
+      "description": "Launches a vine-like projectile at a target."
+     },
+     {
+      "n": 2,
+      "name": "Leaf Slash",
+      "description": "Sweeps sharp leaves through enemies in a cutting arc."
+     },
+     {
+      "n": 3,
+      "name": "Root Bind",
+      "description": "Grows roots around a target to restrict its movement."
+     },
+     {
+      "n": 4,
+      "name": "Plant Zone",
+      "description": "Creates an area of dense plant growth that obstructs enemies."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Plant.jpg"
+   },
+   {
+    "name": "Poison",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Toxin Shot",
+      "description": "Fires a projectile of concentrated toxin."
+     },
+     {
+      "n": 2,
+      "name": "Venom Slash",
+      "description": "Delivers a slashing arc infused with venom."
+     },
+     {
+      "n": 3,
+      "name": "Poison Mist",
+      "description": "Releases a cloud of poisonous mist over an area."
+     },
+     {
+      "n": 4,
+      "name": "Corrode",
+      "description": "Coats a target in corrosive substance that wears it down."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Poison.jpg"
+   },
+   {
+    "name": "Metal",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Metal Shot",
+      "description": "Fires a sharp piece of metal at a target."
+     },
+     {
+      "n": 2,
+      "name": "Blade Slash",
+      "description": "Sweeps a metal blade through nearby enemies."
+     },
+     {
+      "n": 3,
+      "name": "Iron Guard",
+      "description": "Forms an iron barrier to protect the user."
+     },
+     {
+      "n": 4,
+      "name": "Metal Zone",
+      "description": "Raises metal formations across an area to obstruct and strike enemies."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Metal.jpg"
+   },
+   {
+    "name": "Spirit",
+    "tier": "T1 Common",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Spirit Shot",
+      "description": "Fires a projectile of spectral energy."
+     },
+     {
+      "n": 2,
+      "name": "Soul Slash",
+      "description": "Cuts through targets with a sweeping arc of spirit energy."
+     },
+     {
+      "n": 3,
+      "name": "Phantom Step",
+      "description": "Makes a quick evasive movement with a ghostly afterimage."
+     },
+     {
+      "n": 4,
+      "name": "Spirit Zone",
+      "description": "Creates an area filled with spirits that strike enemies within it."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "T1__Spirit.jpg"
+   }
+  ],
+  "Low Fusions": [
+   {
+    "name": "Harbinger's Rot",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Omen Ring",
+      "description": "Throw a rusted chakram along an omen-lit attack path."
+     },
+     {
+      "n": 2,
+      "name": "Corroding Cross",
+      "description": "Cross the paths of two thrown chakrams to cut through the same area."
+     },
+     {
+      "n": 3,
+      "name": "Oxide Recall",
+      "description": "Recall thrown chakrams along returning attack paths."
+     },
+     {
+      "n": 4,
+      "name": "Rust Halo",
+      "description": "Sweep the chakrams around the caster in a circular rust-laced attack."
+     },
+     {
+      "n": 5,
+      "name": "Pitting Mark",
+      "description": "Apply a corrosion-themed mark with a focused chakram strike."
+     },
+     {
+      "n": 6,
+      "name": "Reaper Spiral",
+      "description": "Send the returning blades through a spiraling attack path."
+     },
+     {
+      "n": 7,
+      "name": "Final Oxidation",
+      "description": "Release the fusion's culminating burst of rust-charged chakram attacks."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "rusted throwing chakrams",
+    "artwork": "Lower_Fusion__Harbinger_s_Rot.jpg"
+   },
+   {
+    "name": "Silent Bell",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Muted Toll",
+      "description": "Cast a muted sound pulse carrying a Hex curse."
+     },
+     {
+      "n": 2,
+      "name": "Hex Echo",
+      "description": "Send a repeating cursed echo through a target area."
+     },
+     {
+      "n": 3,
+      "name": "Quietus Ring",
+      "description": "Expand a quiet sound-ring seal around the caster."
+     },
+     {
+      "n": 4,
+      "name": "Silence Seal",
+      "description": "Place a magical seal that suppresses casting within its silence effect."
+     },
+     {
+      "n": 5,
+      "name": "Resonant Curse",
+      "description": "Deliver a Hex curse through a resonating sound pulse."
+     },
+     {
+      "n": 6,
+      "name": "Last Chime",
+      "description": "Release a final concentrated cursed toll."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Silent_Bell.jpg"
+   },
+   {
+    "name": "Frost Orb",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Frost Seed",
+      "description": "Launch a compact seed of freezing energy."
+     },
+     {
+      "n": 2,
+      "name": "Prism Freeze",
+      "description": "Refract frost through crystal to freeze the struck area."
+     },
+     {
+      "n": 3,
+      "name": "Orbital Chill",
+      "description": "Move frost spheres around the caster as a chilling attack pattern."
+     },
+     {
+      "n": 4,
+      "name": "Crystal Snare",
+      "description": "Unfold a frost orb into a crystal lattice that traps its target."
+     },
+     {
+      "n": 5,
+      "name": "Glacial Collapse",
+      "description": "Collapse the formed frost and crystal into a finishing burst."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Frost_Orb.jpg"
+   },
+   {
+    "name": "Clockwork Marionette",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Gear Puppet",
+      "description": "Summon a mechanical puppet controlled by magical strings."
+     },
+     {
+      "n": 2,
+      "name": "String Relay",
+      "description": "Relay commands through strings to reposition a puppet's attack."
+     },
+     {
+      "n": 3,
+      "name": "Clockstep",
+      "description": "Use a timed mechanical step to change position."
+     },
+     {
+      "n": 4,
+      "name": "Synchronized Strike",
+      "description": "Time the puppets' attacks to strike together."
+     },
+     {
+      "n": 5,
+      "name": "Grand Marionette",
+      "description": "Direct the puppets through the fusion's largest coordinated attack."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Clockwork_Marionette.jpg"
+   },
+   {
+    "name": "Living Ink",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Ink Bolt",
+      "description": "Fire a compact bolt of animated ink."
+     },
+     {
+      "n": 2,
+      "name": "False Sketch",
+      "description": "Draw a deceptive ink outline that distracts from the real attack."
+     },
+     {
+      "n": 3,
+      "name": "Living Stroke",
+      "description": "Animate a painted stroke into an attacking shape."
+     },
+     {
+      "n": 4,
+      "name": "Canvas Trap",
+      "description": "Lay an ink pattern that becomes a concealed trap."
+     },
+     {
+      "n": 5,
+      "name": "Smudge Step",
+      "description": "Slip between positions under a smudged illusion."
+     },
+     {
+      "n": 6,
+      "name": "Painted Army",
+      "description": "Animate a group of ink constructs to attack together."
+     },
+     {
+      "n": 7,
+      "name": "Final Illustration",
+      "description": "Complete a large living illustration as the fusion's finishing attack."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Living_Ink.jpg"
+   },
+   {
+    "name": "Prism",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Prism Shot",
+      "description": "Fire a plasma projectile through a refracting prism."
+     },
+     {
+      "n": 2,
+      "name": "Split Ray",
+      "description": "Divide a heat ray into branching beams."
+     },
+     {
+      "n": 3,
+      "name": "Refraction Wall",
+      "description": "Form a glass panel that redirects the fusion's beams."
+     },
+     {
+      "n": 4,
+      "name": "Spectrum Dash",
+      "description": "Move in a burst of spectrum-colored energy."
+     },
+     {
+      "n": 5,
+      "name": "Plasma Lens",
+      "description": "Focus plasma through a hovering lens."
+     },
+     {
+      "n": 6,
+      "name": "Beam Relay",
+      "description": "Pass a beam between refracting panels to change its path."
+     },
+     {
+      "n": 7,
+      "name": "Rainbow Cage",
+      "description": "Arrange refracted beams into a surrounding cage."
+     },
+     {
+      "n": 8,
+      "name": "Whiteout",
+      "description": "Converge the spectrum into a bright finishing blast."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Prism.jpg"
+   },
+   {
+    "name": "Chaos Carnival",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Loaded Roll",
+      "description": "Roll a visible magical die to produce a variable spell result."
+     },
+     {
+      "n": 2,
+      "name": "Trick Burst",
+      "description": "Release a carnival-themed burst with a visibly variable pattern."
+     },
+     {
+      "n": 3,
+      "name": "Carnival Warp",
+      "description": "Shift position through a chaotic carnival sigil."
+     },
+     {
+      "n": 4,
+      "name": "Fortune Trap",
+      "description": "Set a hazard tile whose visible result determines its attack pattern."
+     },
+     {
+      "n": 5,
+      "name": "Grand Finale",
+      "description": "Release the carnival's concluding combination of chaotic spell effects."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Chaos_Carnival.jpg"
+   },
+   {
+    "name": "Napalm",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Tar Flare",
+      "description": "Ignite a flare of sticky tar."
+     },
+     {
+      "n": 2,
+      "name": "Sticky Shot",
+      "description": "Throw an adhesive burning glob at a target."
+     },
+     {
+      "n": 3,
+      "name": "Burning Trail",
+      "description": "Leave a connected trail of burning tar."
+     },
+     {
+      "n": 4,
+      "name": "Pitch Trap",
+      "description": "Place a sticky tar pool as an area trap."
+     },
+     {
+      "n": 5,
+      "name": "Flash Ignition",
+      "description": "Ignite nearby prepared tar into a sudden burst."
+     },
+     {
+      "n": 6,
+      "name": "Firestorm Pool",
+      "description": "Create a large lingering pool of burning tar for area denial."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Napalm.jpg"
+   },
+   {
+    "name": "Sky Weaver",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Cloud Thread",
+      "description": "Cast a silk thread anchored to a buoyant cloud knot."
+     },
+     {
+      "n": 2,
+      "name": "Silk Glide",
+      "description": "Travel along a floating silk line carried by air currents."
+     },
+     {
+      "n": 3,
+      "name": "Mist Net",
+      "description": "Spread a mist-supported silk net to catch targets."
+     },
+     {
+      "n": 4,
+      "name": "Sky Loom",
+      "description": "Weave several airborne threads into a connected pattern."
+     },
+     {
+      "n": 5,
+      "name": "Nimbus Trap",
+      "description": "Suspend a silk trap inside a cloud."
+     },
+     {
+      "n": 6,
+      "name": "Heavenly Weave",
+      "description": "Create the fusion's largest network of cloud-supported threads and traps."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Sky_Weaver.jpg"
+   },
+   {
+    "name": "Blood Moon",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Crimson Arc",
+      "description": "Sweep the lunar ribbon blade through a crimson crescent attack."
+     },
+     {
+      "n": 2,
+      "name": "Moonlash",
+      "description": "Whip the flexible blade along a curved lunar attack path."
+     },
+     {
+      "n": 3,
+      "name": "Sanguine Seal",
+      "description": "Place a blood-red magical seal with a precise ribbon-blade strike."
+     },
+     {
+      "n": 4,
+      "name": "Eclipse Coil",
+      "description": "Loop the blade around its target area in an eclipse-shaped attack."
+     },
+     {
+      "n": 5,
+      "name": "Blood Moonfall",
+      "description": "Bring down a concentrated lunar ribbon-blade finishing strike."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "urumi ribbon blade",
+    "artwork": "Lower_Fusion__Blood_Moon.jpg"
+   },
+   {
+    "name": "Shatterglass",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Shard Shot",
+      "description": "Fire a cluster of glass shards."
+     },
+     {
+      "n": 2,
+      "name": "Impact Store",
+      "description": "Store incoming impact energy within a glass formation."
+     },
+     {
+      "n": 3,
+      "name": "Fracture Dash",
+      "description": "Move through a burst of fractured glass."
+     },
+     {
+      "n": 4,
+      "name": "Glass Guard",
+      "description": "Raise a glass guard that receives impact energy."
+     },
+     {
+      "n": 5,
+      "name": "Ricochet Burst",
+      "description": "Release stored force through rebounding fragments."
+     },
+     {
+      "n": 6,
+      "name": "Kinetic Mine",
+      "description": "Place charged glass that bursts when triggered."
+     },
+     {
+      "n": 7,
+      "name": "Shatter Field",
+      "description": "Spread charged fragments through an area."
+     },
+     {
+      "n": 8,
+      "name": "Cascade Break",
+      "description": "Release a chain of stored impacts across the prepared glass."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Shatterglass.jpg"
+   },
+   {
+    "name": "Iron Maiden",
+    "tier": "Low Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Chain Clamp",
+      "description": "Chains clamp and link iron panels together."
+     },
+     {
+      "n": 2,
+      "name": "Iron Cage",
+      "description": "Iron panels assemble into an empty cage."
+     },
+     {
+      "n": 3,
+      "name": "Binding Pull",
+      "description": "Chains pull a stone cube toward the platform."
+     },
+     {
+      "n": 4,
+      "name": "Crushing Plates",
+      "description": "Two iron plates meet and form a single tile."
+     },
+     {
+      "n": 5,
+      "name": "Final Enclosure",
+      "description": "Creates a complete empty iron enclosure for puzzle building."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Lower_Fusion__Iron_Maiden.jpg"
+   }
+  ],
+  "High Fusions": [
+   {
+    "name": "Hollow Mark",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Hidden Brand",
+      "description": "Place a Hex brand concealed by shadow."
+     },
+     {
+      "n": 2,
+      "name": "Veil Step",
+      "description": "Shift position under the cover of Shadow Veil."
+     },
+     {
+      "n": 3,
+      "name": "Hollow Tether",
+      "description": "Turn a hidden brand into a shadow tether."
+     },
+     {
+      "n": 4,
+      "name": "Curse Echo",
+      "description": "Repeat a cursed pulse through an existing shadow mark."
+     },
+     {
+      "n": 5,
+      "name": "Shadow Detonation",
+      "description": "Detonate the marked shadow in a concentrated burst."
+     },
+     {
+      "n": 6,
+      "name": "Vanishing Sentence",
+      "description": "Trigger the fusion's final concealed curse as its mark fades."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "High_Fusion__Hollow_Mark.jpg"
+   },
+   {
+    "name": "Fading Star",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Dying Spark",
+      "description": "Launch a small fragment of decaying stellar fire."
+     },
+     {
+      "n": 2,
+      "name": "Stellar Decay",
+      "description": "Spread Entropy through a burning stellar projectile."
+     },
+     {
+      "n": 3,
+      "name": "Ember Collapse",
+      "description": "Collapse fading embers into a focused burst."
+     },
+     {
+      "n": 4,
+      "name": "Redshift Field",
+      "description": "Create a field of weakening red stellar energy."
+     },
+     {
+      "n": 5,
+      "name": "Last Radiance",
+      "description": "Release a bright final flare from the dying stellar fire."
+     },
+     {
+      "n": 6,
+      "name": "Dying Star",
+      "description": "Enter the temporary Dying Star state, with fading stellar fractures across the avatar."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "High_Fusion__Fading_Star.jpg"
+   },
+   {
+    "name": "Quantum Rift",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Shear Cut",
+      "description": "Strike with the articulated shear blades."
+     },
+     {
+      "n": 2,
+      "name": "Rift Momentum",
+      "description": "Send a momentum-charged cut through a spatial rift."
+     },
+     {
+      "n": 3,
+      "name": "Folded Parry",
+      "description": "Use the shears and a folded rift to intercept an attack path."
+     },
+     {
+      "n": 4,
+      "name": "Gravity Snip",
+      "description": "Close the shears on a gravity tear for a concentrated cut."
+     },
+     {
+      "n": 5,
+      "name": "Portal Crescent",
+      "description": "Send a curved momentum slash through a portal."
+     },
+     {
+      "n": 6,
+      "name": "Flux Exchange",
+      "description": "Transfer a cutting attack's momentum through paired rifts."
+     },
+     {
+      "n": 7,
+      "name": "Quantum Cage",
+      "description": "Arrange gravity tears around a target area as a cage."
+     },
+     {
+      "n": 8,
+      "name": "Rift Severance",
+      "description": "Sever the opened rift with a finishing shear strike."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "shear blades",
+    "artwork": "High_Fusion__Quantum_Rift.jpg"
+   },
+   {
+    "name": "Venom Hydra",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Venom Cluster",
+      "description": "Launch a coordinated cluster of venom motes."
+     },
+     {
+      "n": 2,
+      "name": "Brood Bite",
+      "description": "Deliver a venomous bite attack with the hydra motif."
+     },
+     {
+      "n": 3,
+      "name": "Swarm Convergence",
+      "description": "Bring the venom swarm together on one target area."
+     },
+     {
+      "n": 4,
+      "name": "Toxic Renewal",
+      "description": "Renew the fusion's venom attack pattern around the caster."
+     },
+     {
+      "n": 5,
+      "name": "Brood Hydra",
+      "description": "Transform temporarily into the compact multiheaded Brood Hydra."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "High_Fusion__Venom_Hydra.jpg"
+   },
+   {
+    "name": "Dream Basilisk",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Drowsing Gaze",
+      "description": "Project a sleep-themed gaze cone."
+     },
+     {
+      "n": 2,
+      "name": "Mirage Coil",
+      "description": "Send phantom serpent coils through a target area."
+     },
+     {
+      "n": 3,
+      "name": "Nightmare Venom",
+      "description": "Launch venom wrapped in nightmare illusion."
+     },
+     {
+      "n": 4,
+      "name": "Stone Dream",
+      "description": "Combine a dream effect with the basilisk's petrifying gaze."
+     },
+     {
+      "n": 5,
+      "name": "Lucid Shedding",
+      "description": "Shed a dreamlike serpent outline to obscure the caster’s true position."
+     },
+     {
+      "n": 6,
+      "name": "Dream Serpent",
+      "description": "Transform temporarily into the one-body dream serpent."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "High_Fusion__Dream_Basilisk.jpg"
+   },
+   {
+    "name": "Chrono Thunderbird",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Clockbolt",
+      "description": "Fire a lightning bolt marked by a time ring."
+     },
+     {
+      "n": 2,
+      "name": "Delayed Thunder",
+      "description": "Schedule a lightning strike to release after a visible delay."
+     },
+     {
+      "n": 3,
+      "name": "Temporal Dive",
+      "description": "Dive along a lightning path with temporal afterimages."
+     },
+     {
+      "n": 4,
+      "name": "Frozen Flash",
+      "description": "Pause a lightning-flash pattern before releasing it."
+     },
+     {
+      "n": 5,
+      "name": "Chrono Thunderbird",
+      "description": "Transform temporarily into the thunderbird body that blinks between paused lightning paths."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "High_Fusion__Chrono_Thunderbird.jpg"
+   },
+   {
+    "name": "Soul Kraken",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Soul Anchor",
+      "description": "Place a timed soul mark as an anchor."
+     },
+     {
+      "n": 2,
+      "name": "Chrono Grasp",
+      "description": "Reach from an anchor with a time-linked spectral tentacle."
+     },
+     {
+      "n": 3,
+      "name": "Echo Tentacle",
+      "description": "Repeat a tentacle attack as a spectral echo."
+     },
+     {
+      "n": 4,
+      "name": "Undertow Recall",
+      "description": "Recall a tentacle attack along its anchored path."
+     },
+     {
+      "n": 5,
+      "name": "Soul Kraken",
+      "description": "Transform temporarily into the soul-marked kraken form."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "High_Fusion__Soul_Kraken.jpg"
+   },
+   {
+    "name": "Verdant Griffin",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Seed Talon",
+      "description": "Strike with leaf-edged talon energy and growth seeds."
+     },
+     {
+      "n": 2,
+      "name": "Leaf Gust",
+      "description": "Send a gust carrying sharp leaf effects."
+     },
+     {
+      "n": 3,
+      "name": "Bloom Pounce",
+      "description": "Lunge with a growth-infused griffin-style melee attack."
+     },
+     {
+      "n": 4,
+      "name": "Feather Sprout",
+      "description": "Fire feather seeds that sprout into aerial growth."
+     },
+     {
+      "n": 5,
+      "name": "Rooted Cyclone",
+      "description": "Create a cyclone of wind cuts and binding roots."
+     },
+     {
+      "n": 6,
+      "name": "Verdant Dominion",
+      "description": "Fill an area with coordinated wind, feathers and living growth."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "High_Fusion__Verdant_Griffin.jpg"
+   },
+   {
+    "name": "Chaos Minotaur",
+    "tier": "High Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Shield Cleave",
+      "description": "Cleave with the edges of the horned greatshield."
+     },
+     {
+      "n": 2,
+      "name": "Wild Charge",
+      "description": "Rush forward with a heavy shield impact."
+     },
+     {
+      "n": 3,
+      "name": "Maze Rebound",
+      "description": "Rebound an attack through the fusion's maze-wall pattern."
+     },
+     {
+      "n": 4,
+      "name": "Chaos Stomp",
+      "description": "Stomp to send out a branching impact."
+     },
+     {
+      "n": 5,
+      "name": "Fractured Guard",
+      "description": "Brace the greatshield against incoming attacks with fractured maze energy."
+     },
+     {
+      "n": 6,
+      "name": "Unstable Wall",
+      "description": "Raise a maze wall with a chaotic attack trajectory."
+     },
+     {
+      "n": 7,
+      "name": "Horned Impact",
+      "description": "Drive the horned shield into a concentrated impact."
+     },
+     {
+      "n": 8,
+      "name": "Labyrinth Rampage",
+      "description": "Chain heavy shield rushes and maze-shaped impacts into a finishing assault."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "horned greatshield",
+    "artwork": "High_Fusion__Chaos_Minotaur.jpg"
+   }
+  ],
+  "Ancient Fusions": [
+   {
+    "name": "Blighted Sigil",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Blight Brand",
+      "description": "Apply a cursed Hex brand infused with blighted growth."
+     },
+     {
+      "n": 2,
+      "name": "Thorn Volley",
+      "description": "Fire a volley of curse-marked thorns."
+     },
+     {
+      "n": 3,
+      "name": "Rooted Curse",
+      "description": "Extend roots from a curse seal to restrain its target area."
+     },
+     {
+      "n": 4,
+      "name": "Abyss Bloom",
+      "description": "Release a bloom of abyssal growth around a marked point."
+     },
+     {
+      "n": 5,
+      "name": "Regent Edict",
+      "description": "Direct a concentrated command-like burst of thorn-seal projectiles."
+     },
+     {
+      "n": 6,
+      "name": "Blighted Regent",
+      "description": "Enter the temporary Blighted Regent form with bark-like cursed armor seams."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "Ancient_Fusion__Blighted_Sigil.jpg"
+   },
+   {
+    "name": "Requiem Constellation",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Astral Cleave",
+      "description": "Cleave with the celestial tuning-fork glaive."
+     },
+     {
+      "n": 2,
+      "name": "Lunar Resonance",
+      "description": "Send a resonating lunar slash wave from the weapon."
+     },
+     {
+      "n": 3,
+      "name": "Star Temper",
+      "description": "Channel forged stellar energy into the glaive's next attack pattern."
+     },
+     {
+      "n": 4,
+      "name": "Constellation Array",
+      "description": "Draw connected damaging constellations with resonant strikes."
+     },
+     {
+      "n": 5,
+      "name": "Requiem Nova",
+      "description": "Release a concluding burst from the assembled constellation pattern."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "tuning-fork glaive",
+    "artwork": "Ancient_Fusion__Requiem_Constellation.jpg"
+   },
+   {
+    "name": "Eclipse Rot",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Concealed Decay",
+      "description": "Place a concealed patch of decaying energy."
+     },
+     {
+      "n": 2,
+      "name": "Rust Eclipse",
+      "description": "Trigger an eclipse-ring burst of corrosion."
+     },
+     {
+      "n": 3,
+      "name": "Unmaking Mist",
+      "description": "Spread a mist of erosion through the target area."
+     },
+     {
+      "n": 4,
+      "name": "Corrosion Veil",
+      "description": "Conceal a corrosion effect beneath Shadow Veil."
+     },
+     {
+      "n": 5,
+      "name": "Total Erosion",
+      "description": "Release the combined decay and corrosion across the affected area."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Ancient_Fusion__Eclipse_Rot.jpg"
+   },
+   {
+    "name": "Hollow Toll",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Soul Clapper",
+      "description": "Swing the chained bell-clapper weight with soul energy."
+     },
+     {
+      "n": 2,
+      "name": "Binding Toll",
+      "description": "Bind a target with a Hex toll carried by the chain weapon."
+     },
+     {
+      "n": 3,
+      "name": "Echo Recall",
+      "description": "Recall the swinging weight with a delayed soul echo."
+     },
+     {
+      "n": 4,
+      "name": "Hex Pendulum",
+      "description": "Sweep the chain weight through a curse-bearing pendulum arc."
+     },
+     {
+      "n": 5,
+      "name": "Chrono Knell",
+      "description": "Schedule a soul pulse to ring after a visible delay."
+     },
+     {
+      "n": 6,
+      "name": "Hollow Judgment",
+      "description": "Release the weapon's final combination of binding brands and repeated tolls."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "bell-clapper meteor hammer",
+    "artwork": "Ancient_Fusion__Hollow_Toll.jpg"
+   },
+   {
+    "name": "Thermal Shock",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Frost Node",
+      "description": "Place a remote frost crystal node."
+     },
+     {
+      "n": 2,
+      "name": "Plasma Pulse",
+      "description": "Send a hot plasma pulse toward the node pattern."
+     },
+     {
+      "n": 3,
+      "name": "Echo Fracture",
+      "description": "Make a node fracture with a delayed impact echo."
+     },
+     {
+      "n": 4,
+      "name": "Thermal Inversion",
+      "description": "Alternate the prepared nodes between cold and heat."
+     },
+     {
+      "n": 5,
+      "name": "Delayed Rupture",
+      "description": "Set a prepared node to rupture after its delayed impact."
+     },
+     {
+      "n": 6,
+      "name": "Absolute Shock",
+      "description": "Release the full alternating-temperature node pattern in a finishing shock."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Ancient_Fusion__Thermal_Shock.jpg"
+   },
+   {
+    "name": "Puppet Theater",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Dream Strings",
+      "description": "Cast strings that control dreamlike constructs."
+     },
+     {
+      "n": 2,
+      "name": "False Actor",
+      "description": "Create a decoy actor within the staged illusion."
+     },
+     {
+      "n": 3,
+      "name": "Construct Stage",
+      "description": "Build a short-lived conceptual stage of controlled constructs."
+     },
+     {
+      "n": 4,
+      "name": "Marionette Shift",
+      "description": "Reposition through the puppet-controlled scene."
+     },
+     {
+      "n": 5,
+      "name": "Curtain Collapse",
+      "description": "Collapse the staged curtain field into its concluding attack."
+     },
+     {
+      "n": 6,
+      "name": "Stage Director",
+      "description": "Enter the temporary Stage Director form with mask and geometric control frame."
+     }
+    ],
+    "tags": [
+     "Has Transformation"
+    ],
+    "weapon": null,
+    "artwork": "Ancient_Fusion__Puppet_Theater.jpg"
+   },
+   {
+    "name": "Timeline Storm",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Timeline Bolt",
+      "description": "Schedule a lightning bolt along a visible time path."
+     },
+     {
+      "n": 2,
+      "name": "Rift Fork",
+      "description": "Split a lightning attack through moving rifts."
+     },
+     {
+      "n": 3,
+      "name": "Delayed Squall",
+      "description": "Release a squall of lightning after a visible delay."
+     },
+     {
+      "n": 4,
+      "name": "Clockstorm Step",
+      "description": "Move through a storm path marked by clock rings."
+     },
+     {
+      "n": 5,
+      "name": "Thunder Replay",
+      "description": "Repeat lightning along a recorded path."
+     },
+     {
+      "n": 6,
+      "name": "Temporal Front",
+      "description": "Send a front of time-scheduled lightning across the area."
+     },
+     {
+      "n": 7,
+      "name": "Rift Tempest",
+      "description": "Open a moving pattern of rifts that emits storm attacks."
+     },
+     {
+      "n": 8,
+      "name": "Storm Convergence",
+      "description": "Converge the scheduled storm paths into a finishing strike."
+     }
+    ],
+    "tags": [],
+    "weapon": null,
+    "artwork": "Ancient_Fusion__Timeline_Storm.jpg"
+   },
+   {
+    "name": "Dreamreaper",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Nightmare Fan",
+      "description": "Sweep the folding war fan through a nightmare attack arc."
+     },
+     {
+      "n": 2,
+      "name": "Reaping Return",
+      "description": "Send the fan's steel ribs along returning attack paths."
+     },
+     {
+      "n": 3,
+      "name": "Dream Mark",
+      "description": "Place a nightmare mark with the fan's magical attack."
+     },
+     {
+      "n": 4,
+      "name": "Execution Screen",
+      "description": "Extend the fan into a circular cutting screen."
+     },
+     {
+      "n": 5,
+      "name": "Masked Reaper",
+      "description": "Enter the temporary masked reaper form with the expanded war fan."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "execution war fan",
+    "artwork": "Ancient_Fusion__Dreamreaper.jpg"
+   },
+   {
+    "name": "Juggernaut",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Siege Thrust",
+      "description": "Thrust the telescoping siege lance into a focused attack."
+     },
+     {
+      "n": 2,
+      "name": "Molten Charge",
+      "description": "Charge with the lance through a magma-infused impact field."
+     },
+     {
+      "n": 3,
+      "name": "Execution Mark",
+      "description": "Place an execution-themed mark through a decisive lance strike."
+     },
+     {
+      "n": 4,
+      "name": "Steel Bastion",
+      "description": "Form a reinforced steel defensive stance around the armored fighter."
+     },
+     {
+      "n": 5,
+      "name": "Magma Breach",
+      "description": "Drive the lance through a molten impact burst."
+     },
+     {
+      "n": 6,
+      "name": "Headless Juggernaut",
+      "description": "Enter the temporary headless siege-armored Juggernaut form."
+     }
+    ],
+    "tags": [
+     "Has Weapon",
+     "Has Transformation"
+    ],
+    "weapon": "siege lance",
+    "artwork": "Ancient_Fusion__Juggernaut.jpg"
+   },
+   {
+    "name": "Spectrum Cannon",
+    "tier": "Ancient Fusions",
+    "themes": null,
+    "abilities": [
+     {
+      "n": 1,
+      "name": "Prism Round",
+      "description": "Fire a concentrated prismatic cannon projectile."
+     },
+     {
+      "n": 2,
+      "name": "Arc Split",
+      "description": "Divide the cannon shot into separate spectral channels."
+     },
+     {
+      "n": 3,
+      "name": "Verdict Sight",
+      "description": "Aim the cannon using a judgment-marked sight."
+     },
+     {
+      "n": 4,
+      "name": "Spectrum Sweep",
+      "description": "Sweep a spectral cannon beam across the target area."
+     },
+     {
+      "n": 5,
+      "name": "Refractive Guard",
+      "description": "Arrange the cannon’s prisms into a refractive guard."
+     },
+     {
+      "n": 6,
+      "name": "Judgment Lock",
+      "description": "Align the judgment sight on the marked target."
+     },
+     {
+      "n": 7,
+      "name": "Channel Overload",
+      "description": "Build up energy across the cannon’s spectral channels."
+     },
+     {
+      "n": 8,
+      "name": "Final Spectrum",
+      "description": "Fire the final converging spectrum shot."
+     }
+    ],
+    "tags": [
+     "Has Weapon"
+    ],
+    "weapon": "prismatic siege cannon",
+    "artwork": "Ancient_Fusion__Spectrum_Cannon.jpg"
+   }
+  ]
+ }
+}
